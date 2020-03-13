@@ -11,7 +11,7 @@
     <versions>
         <version>
             <number>1</number>
-            <pathOnClient>panel logo.jpg</pathOnClient>
+            <pathOnClient>panel_logo.jpg</pathOnClient>
         </version>
     </versions>
 </ContentAsset>
