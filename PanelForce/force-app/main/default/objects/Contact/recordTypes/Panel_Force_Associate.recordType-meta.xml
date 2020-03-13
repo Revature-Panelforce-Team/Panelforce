@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Panel_Force_Associate</fullName>
+    <active>true</active>
+    <label>Panel Force Associate</label>
+    <picklistValues>
+        <picklist>Batch__c</picklist>
+        <values>
+            <fullName>Business analyst</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Java</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Java senior</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Salesforce</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LeadSource</picklist>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Partner Referral</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Purchased List</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Web</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Name</picklist>
+        <values>
+            <fullName>Dr%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mr%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mrs%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ms%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prof%2E</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Work_Experience__c</picklist>
+        <values>
+            <fullName>1-3 years</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3-5 years</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Less than a year</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>More than 5 years</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No experience</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
