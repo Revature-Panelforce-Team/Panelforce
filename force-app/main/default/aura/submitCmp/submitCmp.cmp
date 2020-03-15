@@ -1,0 +1,64 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <table>
+        <tr>
+            <td>Contact</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="Johnny Football" label="" /></td>
+            <td style="color:white">"        "</td>
+            <td>Recording Link</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="http://panel.com/345693" label="" /></td>
+        </tr>
+        <br/>
+        <tr>
+            <td>Assigned To</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="Jenifer Y" label="" /></td>
+            <td style="color:white">"        "</td>
+            <td>Recording Consent</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="Yes" label="" /></td>
+        </tr>
+        <br/>
+        <tr>
+            <td>Date/Time</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="9/4/2019 12:00PM" label="" /></td>
+            <td style="color:white">"        "</td>
+            <td>Mode</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="Skype" label="" /></td>
+        </tr>
+        <br/>
+        <tr>
+            <td>Duration</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="120" label="" /></td>
+            <td style="color:white">"        "</td>
+            <td>Stability</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="Stable" label="" /></td>
+        </tr>
+        <br/>
+        <tr>
+            <td>Panel Round</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="1" label="" /></td>
+            <td style="color:white">"        "</td>
+            <td>Training Assignment</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="190330- Java - USF" label="" /></td>
+        </tr>
+        <br/>
+        <tr>
+            <td>Template</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="Java MS" label="" /></td>
+            <td style="color:white">"        "</td>
+            <td>Placement</td>
+            <td style="color:white">"        "</td>
+            <td><ui:inputtext value="6/2018 Rural Sourcing Inc. (Rsi) - Rural Sourcing Inc. (Rsi) JOB-00016360" label="" /></td>
+        </tr>
+    </table>
+    
+</aura:component>
