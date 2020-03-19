@@ -108,7 +108,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Technlogy__c.Weight_in_Panel_Results__c</field>
+        <field>Technology__c.Weight_in_Panel_Results__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
@@ -132,7 +132,7 @@
         <layout>Panel__c-Panel Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Technlogy__c-Technlogy Layout</layout>
+        <layout>Technology__c-Technlogy Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -167,7 +167,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>Technlogy__c</object>
+        <object>Technology__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>
@@ -188,7 +188,7 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Technlogy__c</tab>
+        <tab>Technology__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

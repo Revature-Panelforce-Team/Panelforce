@@ -4,8 +4,8 @@
     <description>P3 - Declarative Solutions: Field Added for Validation Rule</description>
     <externalId>false</externalId>
     <label>Total Weights</label>
-    <summarizedField>Technlogy__c.Weight_in_Panel_Results__c</summarizedField>
-    <summaryForeignKey>Technlogy__c.Curriculum__c</summaryForeignKey>
+    <summarizedField>Technology__c.Weight_in_Panel_Results__c</summarizedField>
+    <summaryForeignKey>Technology__c.Curriculum__c</summaryForeignKey>
     <summaryOperation>sum</summaryOperation>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
