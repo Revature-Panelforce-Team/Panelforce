@@ -1,0 +1,74 @@
+<aura:component controller="TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+     <aura:attribute  name="tech" type="Technology__c[]" /> 
+    <aura:handler name="init" value="{!this}"  action="{!c.techlist}" />
+    
+     <table class="slds-table slds-table_cell-buffer slds-no-row-hover slds-table_bordered">
+  <thead>
+    <tr class="slds-line-height_reset">
+      <th class="" scope="col">
+        <div class="slds-truncate" title="Technology">Technology</div>
+      </th>
+      <th class="" scope="col">
+        <div class="slds-truncate" title="Max Score">Max Score</div>
+      </th>
+      <th class="" scope="col">
+        <div class="slds-truncate" title="Actual Score">Actual Score</div>
+      </th>
+      <th class="" scope="col">
+        <div class="slds-truncate" title="Repanel">Repanel</div>
+      </th>
+      <th class="" scope="col">
+        <div class="slds-truncate" title="Comments">Comments</div>
+      </th>
+    </tr>
+  </thead>
+         
+         <tbody>
+         <aura:iteration items="{!v.tech}" var="item">
+             <tr class="slds-hint-parent">
+      <th data-label="Technology" scope="row">
+        <div class="slds-truncate" title="Tech Name">
+        {!item.Name}
+        </div>
+      </th>
+      <td data-label="Max Score">
+        <div class="slds-truncate" title="Max"> {!item.Weight_in_Panel_Results__c}</div>
+      </td>
+      <td data-label="Actual Score">
+        <div class="slds-truncate" title="Actual"> <ui:inputnumber value=" "/> </div>
+      </td>
+      <td data-label="Repanel">
+        <div class="slds-truncate" title="Repanel">______</div>
+      </td>
+      <td data-label="Comments">
+        <div class="slds-truncate" title="Comments"><ui:inputtext value="" /></div>
+      
+         </td>
+    </tr>
+             </aura:iteration>
+            <tr class="slds-hint-parent">
+      <th data-label="Technology" scope="row">
+        <div class="slds-truncate" title="Tech Name">
+          Total
+        </div>
+      </th>
+      <td data-label="Max Score">
+        <div class="slds-truncate" title="Max"> ____</div>
+      </td>
+      <td data-label="Actual Score">
+        <div class="slds-truncate" title="Actual"> _____ </div>
+      </td>
+      <td data-label="Repanel">
+        <div class="slds-truncate" title="Repanel">______</div>
+      </td>
+    
+    </tr>
+         </tbody>
+    </table><br/><br/>
+    Overall Comments:  <ui:inputtext value="feedback"/><br/>
+    
+    Client Interview Ready? : _______________ 
+    
+    Panel Comments:  <ui:inputnumber value="comments"/>
+ 
+</aura:component>
