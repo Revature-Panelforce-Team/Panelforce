@@ -1,0 +1,1442 @@
+[
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634307,
+            "changeTime": 1584632634307,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634307,
+            "changeTime": 1584632634307,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "1e35039572b2f90fde71753463f249442ce3127e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/appMenus",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634307,
+            "changeTime": 1584632634307,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2129,
+            "modifiedTime": 1584632634307,
+            "changeTime": 1584632634307,
+            "contentHash": "58098a79d6431e8d587446dd2f70eafb0a981b7f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634307,
+            "changeTime": 1584632634307,
+            "contentHash": "1dd663e70f9ec167894d23f0a684a6d5447dfc31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/applications/Panel_Force_Team.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/applications/Panel_Force_Team.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 909,
+            "modifiedTime": 1584632634307,
+            "changeTime": 1584632634307,
+            "contentHash": "85ed622416b3fbe48d44f57d4b4444a2536549e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "b9735dace3c8a4467cc337facef1ec99e08f6431",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/contentassets/panel_logo.asset",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/contentassets/panel_logo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 104348,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "9bb0e15c3c7fa5e81014d8a140d30841962567d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/contentassets/panel_logo.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/contentassets/panel_logo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 533,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "d2f369fc7585343d7d9b90d56201e2bc6b41adab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "2811fc33814c38e2aa353a59933cc586e6dc9d59",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/flexipages/Panel_Force_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/flexipages/Panel_Force_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "ab2f690da2bf0d10c04c0c902b017bde5e8e643f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "837177b5cb3349f517fbb48599fad4f3d875f107",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10183,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "96dde83ef63078baaa0d835705a1a32798328b57",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10159,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "773ba1d4a7759a36fd9e57b584cbb8684d34de2d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9868,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "dcbbbccd1c824d9716df1855f5f50d11ad5df39b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10159,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "8f7e6a04ad75d4310cc9a3109bb8c84c3930840e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Panel Force Associate.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-Panel Force Associate.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2336,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "e5b66cce258f0a13e6eb86e3c7010cf63c645adc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-contact%28associate%29 layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-contact%28associate%29 layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3562,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "2db9d809e8b578b7089670f32437ef382e66fe50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-panelforce associate.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Contact-panelforce associate.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2336,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "e5b66cce258f0a13e6eb86e3c7010cf63c645adc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Panel_Results__c-Panel Result Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Panel_Results__c-Panel Result Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2914,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "e43a4907e654c3501882cf31c6a554f31941f24b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Panel__c-Panel Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Panel__c-Panel Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4908,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "5dfdbd3b1239e57f2241fc207f7648eb078906b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Technology__c-Technology Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/layouts/Technology__c-Technology Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3162,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "2b8c6edf40ddb614922d08933647bc2fbbf4c330",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "252ac0f9d12adba59369338d3f325d85e3d919eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "32b71f68a91c51c8d74496b8bc4d9c8985c4c74f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Batch__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Batch__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 776,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "2272cf6737cec37db6c02a6459e9289d835f3eab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Certified__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Certified__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "0747f12f028a4d9e1ec0133a3b04459bade371b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Contact-en_US.objectTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Contact-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1117,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "1f8a53126d3cb407556be6cb231411448eddd962",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Graduation_Date__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Graduation_Date__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 218,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "cbfd2dd23e888affcf0f3b1f87e8f77e95b0d4c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Work_Experience__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Contact-en_US/Work_Experience__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 966,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "76ddf33501b3731f36af723d00ab0f29568d51c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "f888aacc1906e3af0d1b47ccbe33366fb1a141a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US/Curriculum__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US/Curriculum__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 273,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "d3f5057c9df4f96bb071438bf3901d882c83bd90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US/Technology__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US/Technology__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "2881aec9fc2f155504a609ffd83ae936fc837760",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US/Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objectTranslations/Technology__c-en_US/Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 234,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "98b30feb5704b7b6a276d47a0e61bc46e2f5c102",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "8b3b2f48ad2eaac2bbc3723d3e7bfd3fdd91d422",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "e23fc9090bfbd4e584f8e516e8c1126de725f09d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Batch__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1167,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "27ee60a6eeba2eae5bc122648471a2c6096a68b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Certified__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Certified__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "1745fe33bcd7165f998a5a059d9c360afe50989c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Graduation_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Graduation_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "d7eabb5e73408517ff5cbbeb3da876f3a2168a22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Work_Experience__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/fields/Work_Experience__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1385,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "75897dac3f57d81d1d3ac08bebf580af315017f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/recordTypes",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "f5c19a39af592dabdca40d8b6d7181299009b5a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/recordTypes/PanelForce_Associate.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/recordTypes/PanelForce_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2757,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "e9beb8648231b68b9e9d80fb6a661d19013f2974",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/recordTypes/Panel_Force_Associate.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Contact/recordTypes/Panel_Force_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2758,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "c8d1c22c9af9ef4253ac91342d777fa5e7b1efbc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "eddec5a2cd98e9b96060d0f2d729e454f61fcf62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c/Curriculum__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c/Curriculum__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5210,
+            "modifiedTime": 1584632634311,
+            "changeTime": 1584632634311,
+            "contentHash": "bc795a6bbcd102ee6ee3d3a98c723ddec9bec049",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Curriculum__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "9079593057c3116a1b34a5fc3f961ee1fd085af9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/Panel_Results__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/Panel_Results__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5292,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "f14db439f95ffb5dfc751eb227f32ca91922a0b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "85bd0800f0d657ed0325ae3ffe6b883626c6eddc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields/Grade__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields/Grade__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 422,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "b2108764a4cbe62bedd1d4fd407cff40bb6101cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields/Panel__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields/Panel__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 641,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "32e578b0bf6a777a71b1eca2a5f09308960d573d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields/Technology__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/fields/Technology__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 656,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "d9895912481adae77bab3d76fff080f63e111747",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel_Results__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "f805f4d282646ffa7127ded149fbbdf45059ba97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/Panel__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/Panel__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5195,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "8a890bb80d4b4adad0ce4038e4b5da6b9acb8bef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "c2f4570a0a76945ea4fd0a38ee9cea87de6f34f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Associate__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Associate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 539,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "064640d3e6b3242947074aaec4850dc594bbe690",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Consent_to_recording__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Consent_to_recording__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 385,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "7b9c481377e565e3ee2302ed6efc1f0d4c2c4fe1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Curriculum__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "48d18b5c76f328befdb1e0c13f3b787cbac99587",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Internet_Connection_Quality__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Internet_Connection_Quality__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1234,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "b2be487b75e0dc8fb9928bd75d286bd6ccc8d061",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "4c0f0e7ee4b0a1d0d8127eef221e4c9a96811d6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_Duration_in_minutes__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_Duration_in_minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 471,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "ee209599bc705e0ebca9b8c90d422afc666b8e43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_Time__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "20d40106c7086604b0f8744a9a9c0f17d0ec17e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_mode__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Interview_mode__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1358,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "56ffc7be2b43790aa4caba90d7ac692c0fc6240e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Overall_Feedback__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Overall_Feedback__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "cb126d90fb603d219c2765660d87a583e1898696",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Panel_Round__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Panel_Round__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "8cee7bbbe441e0d9e3e57eae268673d30edab36d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Panelist__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Panelist__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 484,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "bc005307deada890bac53347e53770ca78264418",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Recording_Link__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Recording_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "b3db9c5a3ec16192e04a655647697c596be184d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Training_track__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/fields/Training_track__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1262,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "10b6f2182958a19ddf3ff38c39d89f2aad560de4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Panel__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "3cfb3eef7560136eb6b4b313b5709c3cb0984e1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/Technology__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/Technology__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5231,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "4b6e037ad6485094176d0da7d565c8d2f4217ab6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "fdef53cfc5b02bcbcba35f2c1c0934cd4cde3735",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/fields/Curriculum__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/fields/Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 598,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "631befa1fc4db8c5c0db3ac031e8df7713502f82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/fields/Weight_in_Panel_Results__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/fields/Weight_in_Panel_Results__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 458,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "7a98eb22c4548df4e74257b082bc54ae27bb3ba3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/objects/Technology__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "5554b5e94c58f3677d23b9bbfd340e571436c255",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/permissionsets/panel_force.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/permissionsets/panel_force.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4737,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "542480a599bb0ae9b77a6ebfb92d2098d857ede0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/reportTypes",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/reportTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "ef52a1fe946842084049bc01cdb603d78f050522",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/reportTypes/Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/reportTypes/Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5556,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "cae353555f64d2a11688f3e1444e3a1bc0881c62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/roles",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/roles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "865ed642fe5bdf81de8e837d57222690324daffe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/roles/Quality_Control.role-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/roles/Quality_Control.role-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 428,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "91d112457e16fb98229bf2382b83c2015686641f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "10518a7efa13079ab181395be93ac2fb15200dfc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/staticresources/panel_logo.jpeg",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/staticresources/panel_logo.jpeg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/staticresources/panel_logo.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/staticresources/panel_logo.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 254,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "c3ee7155bcc47aa4104283cccc632c2fa087c485",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "ecede2482dec6e66e7a3035122133c0b90bf492b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Curriculum__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Curriculum__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 182,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "36e70d71d07330b2f58f521d3da3722a32b20091",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Panel_Results__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Panel_Results__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 186,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "20479c338f496878ed38c7be0a8f1ca0b55d8619",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Panel__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Panel__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 183,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "d7154bd27a599d1585a7db1212625b9f03897f36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Technology__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce/force-app/main/default/tabs/Technology__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 184,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "65574ed737a592d040eec8a48bfc5eea474068e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gabchen/Desktop/Panelforce",
+        {
+            "state": "n",
+            "sourcePath": "/home/gabchen/Desktop/Panelforce",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1584632634315,
+            "changeTime": 1584632634315,
+            "contentHash": "26ad788ecc6ecc3059a8f3e528429bfb557cc713",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
