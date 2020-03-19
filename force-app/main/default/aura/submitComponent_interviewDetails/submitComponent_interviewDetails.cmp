@@ -1,65 +1,46 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
-    <p class="header">Interview</p><br /><br />
-    <center><table>
-        <tr>
-            <td>Contact</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="Johnny Football" label="" /></td>
-            <td style="color:white">"        "</td>
-            <td>Recording Link</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="http://panel.com/345693" label="" /></td>
-        </tr>
-        <br/>
-        <tr>
-            <td>Assigned To</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="Jenifer Y" label="" /></td>
-            <td style="color:white">"        "</td>
-            <td>Recording Consent</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="Yes" label="" /></td>
-        </tr>
-        <br/>
-        <tr>
-            <td>Date/Time</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="9/4/2019 12:00PM" label="" /></td>
-            <td style="color:white">"        "</td>
-            <td>Mode</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="Skype" label="" /></td>
-        </tr>
-        <br/>
-        <tr>
-            <td>Duration</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="120" label="" /></td>
-            <td style="color:white">"        "</td>
-            <td>Stability</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="Stable" label="" /></td>
-        </tr>
-        <br/>
-        <tr>
-            <td>Panel Round</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="1" label="" /></td>
-            <td style="color:white">"        "</td>
-            <td>Training Assignment</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="190330- Java - USF" label="" /></td>
-        </tr>
-        <br/>
-        <tr>
-            <td>Template</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="Java MS" label="" /></td>
-            <td style="color:white">"        "</td>
-            <td>Placement</td>
-            <td style="color:white">"        "</td>
-            <td><ui:inputtext value="6/2018 Rural Sourcing Inc. (Rsi) - Rural Sourcing Inc. (Rsi) JOB-00016360" label="" /></td>
-        </tr>
-        </table>
-    </center>
+<aura:component controller="interviewDetails_controller" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}" />
+    <aura:handler name="change" value="{!Curriculum}" action="{!c.populateGrades}" />
+    <aura:attribute name="currUser" type="String" default=""/>
+    <aura:attribute name="currCurriculum" type="String" default="currCurriculum"/>
+    <lightning:recordEditForm aura:id="recordEditForm" onsuccess="{!c.handleSuccess}"
+                              objectApiName="Panel__c">
+        <lightning:messages />
+        <center><table>
+            <tr>
+                <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Associate__c" /></div></td>
+                <td><lightning:inputField fieldName="Recording_Link__c" /></td>
+            </tr>
+            <br/>
+            <tr>
+                <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="OwnerId" value="{!v.currUser}" /></div></td>
+                <td><lightning:inputField fieldName="Consent_to_recording__c" /></td>
+            </tr>
+            <br/>
+            <tr>
+                <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Date__c" /></div></td>
+                <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Time__c" /></div></td>
+                <td><lightning:inputField fieldName="Interview_mode__c" /></td>
+            </tr>
+            <br/>
+            <tr>
+                <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Duration_in_minutes__c" /></div></td>
+                <td><lightning:inputField fieldName="Internet_Connection_Quality__c" /></td>
+            </tr>
+            <br/>
+            <tr>
+                <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Panel_Round__c" /></div></td>
+                <td><lightning:inputField fieldName="Training_track__c" /></td>
+            </tr>
+            <br/>
+            <tr>
+                <div onchange="{!c.populateGrades}"><td><div class="slds-m-right_xx-large"><lightning:inputField aura:id="Curriculum" fieldName="Curriculum__c" /></div></td></div>
+                <!--<td><lightning:inputField fieldName="" /></td>-->
+            </tr>
+            </table>
+        </center>
+        Curriculum ID: {!v.currCurriculum}<br/>
+        <lightning:button aura:id="button1" class="slds-m-top_small" type="submit" label="Create New" />
+    </lightning:recordEditForm>
+    <br/><br/><br/>
 </aura:component>
