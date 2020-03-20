@@ -4,6 +4,7 @@
     <!--A variable to store the list of the search results -->
 <aura:attribute name="searchResults" type="Panel__c[]"/>    
 <aura:handler name="init" value="{!this}"  action="{!c.handleSearchNameID}" />
+    <aura:attribute name="PassRecordID" type="string"/>
   
 <!-- this textbox is binded to the component variable 'searchName' -->
 <lightning:input name="txtSearch" value="{! v.searchName}" placeholder="please type your a name or ID ..." label="Search" />
@@ -25,7 +26,7 @@
                          onrowaction="{! c.handleRowAction }"
                          />
     <aura:if isTrue ="{!v.ShowRecordDetails}">
-    
+        <c:PanelView panelId="{!v.PassRecordID}"/>
     </aura:if>
             
 </aura:component>

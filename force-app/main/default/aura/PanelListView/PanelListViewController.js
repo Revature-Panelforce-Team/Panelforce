@@ -5,11 +5,20 @@
         helper.findNameOrID(component, event, helper);
     },
     handleRowAction: function(component, event, helper) {
+        debugger;
+       
          var action = event.getParam('action');
-        if(action.name=='show_details')
+        var recordDetail =event.getParam('row');
+        
+        
+        console.log(recordDetail.Id)
+        if(action.name=='show_details'){
+            
+            component.set("v.PassRecordID",recordDetail.Id);
             component.set("v.ShowRecordDetails",True);
+        }
             else
                 component.set("v.ShowRecordDetails",False);
         
-    }
+    }   
 })

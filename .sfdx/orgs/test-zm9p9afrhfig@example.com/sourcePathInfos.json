@@ -1438,14 +1438,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584659402571,
             "changeTime": 1584659402571,
-            "contentHash": "9137b3f2667c76bce894a5074f921a9d4d12855d"
+            "contentHash": "9137b3f2667c76bce894a5074f921a9d4d12855d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1477,14 +1477,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp",
             "isDirectory": false,
-            "size": 2171,
-            "modifiedTime": 1584659195108,
-            "changeTime": 1584659195108,
-            "contentHash": "2066b35ddf6d477f764a8db754c58f72e0a671a4",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 2273,
+            "modifiedTime": 1584664179966,
+            "changeTime": 1584664179966,
+            "contentHash": "2366cbc4084ae46f327a5c7e20769df2dff7a9d5"
         }
     ],
     [
@@ -1542,14 +1542,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewController.js",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewController.js",
             "isDirectory": false,
-            "size": 555,
-            "modifiedTime": 1584659195104,
-            "changeTime": 1584659195104,
-            "contentHash": "df4192e8b53990ec118d934ed09548cb4f1cc721",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 773,
+            "modifiedTime": 1584664179962,
+            "changeTime": 1584664179962,
+            "contentHash": "6e8f16910143fbbd786447774f1f0d29e03ba7e0"
         }
     ],
     [
@@ -1620,27 +1620,27 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 25767,
-            "modifiedTime": 1584656919446,
-            "changeTime": 1584656919446,
-            "contentHash": "ab96e8bcfcfe6474afce00e79a990b09b1e4f835",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 25895,
+            "modifiedTime": 1584664180014,
+            "changeTime": 1584664180014,
+            "contentHash": "4e2b4c0590451c673ccdbd79da4f63bd0114dd6f"
         }
     ],
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584659331989,
             "changeTime": 1584659332019,
-            "contentHash": "ed9075e7939c9c38944b2aaffc8a8e8c67f8c2a2"
+            "contentHash": "ed9075e7939c9c38944b2aaffc8a8e8c67f8c2a2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1664,61 +1664,87 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1584659331931,
-            "changeTime": 1584659333493,
-            "contentHash": "2a26de5154ceb570d0d9d32b172d714a7a5640a0"
+            "modifiedTime": 1584664179976,
+            "changeTime": 1584664179976,
+            "contentHash": "c711b7c33bb9289fda8361a7359279d7724c9c52"
         }
     ],
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2876,
             "modifiedTime": 1584659331920,
             "changeTime": 1584659333933,
-            "contentHash": "cd75ae5e314b5b1252330777f197664d6c3b1e4d"
+            "contentHash": "cd75ae5e314b5b1252330777f197664d6c3b1e4d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1584659331947,
             "changeTime": 1584659333964,
-            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 299,
             "modifiedTime": 1584659331980,
             "changeTime": 1584659336528,
-            "contentHash": "af4aefd18010bf8186b61c17c5202e46ece5c00d"
+            "contentHash": "af4aefd18010bf8186b61c17c5202e46ece5c00d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1584659332006,
             "changeTime": 1584659334025,
-            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 105,
+            "modifiedTime": 1584664179973,
+            "changeTime": 1584664179973,
+            "contentHash": "9635a56e921a014736912b9eb43901afb5ef8190"
+        }
+    ],
+    [
+        "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 958,
+            "modifiedTime": 1584664179976,
+            "changeTime": 1584664179976,
+            "contentHash": "015ea5c108d89addfcb58307ebf031820696e8c6"
         }
     ]
 ]
