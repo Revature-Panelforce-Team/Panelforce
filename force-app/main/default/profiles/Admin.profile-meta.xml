@@ -28,7 +28,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Curriculum__c.Panel__c</field>
+        <field>Curriculum__c.Active__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -132,7 +132,7 @@
         <layout>Panel__c-Panel Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Technology__c-Technlogy Layout</layout>
+        <layout>Technology__c-Technology Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
