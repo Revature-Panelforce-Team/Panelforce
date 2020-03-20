@@ -1,5 +1,6 @@
 <aura:component controller="TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
      <aura:attribute  name="tech" type="Technology__c[]" /> 
+    <aura:attribute name = "grade" type = "Integer[]"/>
     
     <aura:handler event = "c:SubmitPanelCompPassCurrID" action = "{!c.handleIdPass}"/>    
     
@@ -36,13 +37,13 @@
         <div class="slds-truncate" title="Max"> {!item.Weight_in_Panel_Results__c}</div>
       </td>
       <td data-label="Actual Score">
-        <div class="slds-truncate" title="Actual"> <ui:inputnumber value=" "/> </div>
+          <div class="slds-truncate" title="Actual"> <lightning:input aura:id = "gradeList"/></div>
       </td>
       <td data-label="Repanel">
         <div class="slds-truncate" title="Repanel">______</div>
       </td>
       <td data-label="Comments">
-        <div class="slds-truncate" title="Comments"><ui:inputtext value="" /></div>
+        <div class="slds-truncate" title="Comments"><ui:inputtext /></div>
       
          </td>
     </tr>
@@ -71,5 +72,7 @@
     Client Interview Ready? : _______________ 
     
     Panel Comments:  <ui:inputnumber value="comments"/>
+    
+    <lightning:button label = "Test Button" onclick = "{!c.testMethod}"/>
  
 </aura:component>

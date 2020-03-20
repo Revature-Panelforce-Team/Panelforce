@@ -8,5 +8,12 @@
             component.set("{!v.tech}",response.getReturnValue());
         })
         $A.enqueueAction(action);
+    },
+    
+    testMethod : function(component, event, helper) {
+        
+        var grades = component.find("gradeList").getElement();
+        console.log(grades);
+        
     }
 })

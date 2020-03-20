@@ -21,6 +21,9 @@
                                   objectApiName="Panel__c">
             <center><table>
                 <tr>
+                    <td><div class="slds-m-right_xx-large"><lightning:inputfield fieldName="Name" /></div></td>
+                </tr>
+                <tr>
                     <td><div class="slds-m-right_xx-large"><lightning:inputfield fieldName="Associate__c" /></div></td>
                     <td><lightning:inputfield fieldName="Recording_Link__c" /></td>
                 </tr>
@@ -32,12 +35,12 @@
                 <br/>
                 <tr>
                     <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Date__c" /></div></td>
-                    <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Time__c" value="Will have to validate this field for format." /></div></td>
+                    <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Time__c"/></div></td>
                     <td><lightning:inputField fieldName="Interview_mode__c" /></td>
                 </tr>
                 <br/>
                 <tr>
-                    <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Duration_in_minutes__c" value="Will have to validate this for absurd values."/></div></td>
+                    <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Duration_in_minutes__c"/></div></td>
                     <td><lightning:inputField fieldName="Internet_Connection_Quality__c" /></td>
                 </tr>
                 <br/>
