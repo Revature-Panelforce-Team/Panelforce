@@ -1,0 +1,31 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" controller="PanelListViewAPEXController" 
+                access="global">
+<aura:attribute name="searchName" type="string"/>
+    <!--A variable to store the list of the search results -->
+<aura:attribute name="searchResults" type="Panel__c[]"/>    
+<aura:handler name="init" value="{!this}"  action="{!c.handleSearchNameID}" />
+  
+<!-- this textbox is binded to the component variable 'searchName' -->
+<lightning:input name="txtSearch" value="{! v.searchName}" placeholder="please type your a name or ID ..." label="Search" />
+ <lightning:button label="Submit" title="Neutral action" onclick="{! c.handleSearchNameID }"/>
+    <aura:attribute name="ShowRecordDetails" type="boolean" default="false" />
+      <aura:attribute name="columns" type="list" default="[{label:'ID',fieldName:'Name',type:'text'},
+                                                          {label:'Name',fieldName:'Name',type:'text'},
+                                                        {label:'Associate',fieldName:'Associate__c',type:'text'},
+                                                        {label:'Curriculum',fieldName:'Curriculum__c',type:'text'},
+                                                        {label:'PanelList',fieldName:'Panelist__c',type:'text'},
+                                                        {label:'Panel Round',fieldName:'Panel_Round__c',type:'text'},
+                                                        { type: 'action', typeAttributes: { rowActions: [{label: 'Show details', name: 'show_details'}] } }
+                                                        ]"/>
+    <lightning:datatable
+                         keyField="id"
+                         data="{! v.searchResults }"
+                         columns="{! v.columns }"
+                         hideCheckboxColumn="true"
+                         onrowaction="{! c.handleRowAction }"
+                         />
+    <aura:if isTrue ="{!v.ShowRecordDetails}">
+    
+    </aura:if>
+            
+</aura:component>

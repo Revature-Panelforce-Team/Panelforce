@@ -1,0 +1,55 @@
+<aura:component controller="PanelViewAPEXController" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:attribute name="panelId" type="String" />
+    <aura:attribute name="panelRecords" type="Object[]" />
+    <aura:attribute name="panelRecordColumns" type="List" default="[
+    	{label: 'Technology Name', fieldName: 'Technology__rName', type: 'text'},
+        {label: 'Weight', fieldName: 'Technology__rWeight_in_Panel_Results__c', type: 'number'},
+        {label: 'Grade', fieldName: 'Grade__c', type: 'number'}]"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    
+    <lightning:card>
+        <lightning:recordViewForm recordId="{!v.panelId}" objectApiName="Panel__c">
+            <table>   
+            	<tr>
+                    <td><lightning:outputField fieldName="Associate__c" /></td>
+                    <td><lightning:outputField fieldName="Recording_Link__c" /></td>
+                </tr>
+                <br/>
+                <tr>
+                    <td><lightning:outputField fieldName="OwnerId" /></td>
+                    <td><lightning:outputField fieldName="Consent_to_recording__c" /></td>
+                </tr>
+                <br/>
+                <tr>
+                    <td><lightning:outputField fieldName="Interview_Date__c" /></td>
+                    <td><lightning:outputField fieldName="Interview_Time__c" /></td>
+                    <td><lightning:outputField fieldName="Interview_mode__c" /></td>
+                </tr>
+                <br/>
+                <tr>
+                    <td><lightning:outputField fieldName="Interview_Duration_in_minutes__c" /></td>
+                    <td><lightning:outputField fieldName="Internet_Connection_Quality__c" /></td>
+                </tr>
+                <br/>
+                <tr>
+                    <td><lightning:outputField fieldName="Panel_Round__c" /></td>
+                    <td><lightning:outputField fieldName="Training_track__c" /></td>
+                </tr>
+                <tr>
+                    <td><lightning:outputField fieldName="Curriculum__c" /></td>
+                    <td><lightning:outputField fieldName="Panelist__c" /></td>
+                </tr>
+                <tr>
+                    <td colspan="3"><lightning:outputField fieldName="Overall_Feedback__c" /></td>\
+                </tr>
+                
+                </table>
+        </lightning:recordViewForm>
+        <lightning:datatable
+                             keyField="Id"
+                             data = "{!v.panelRecords}"
+                             columns = "{!v.panelRecordColumns}"
+                             hideCheckboxColumn="true"
+                             />
+    </lightning:card>
+</aura:component>
