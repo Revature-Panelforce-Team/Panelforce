@@ -121,7 +121,7 @@
         <field>Technology__c.Weight_in_Panel_Results__c</field>
         <readable>true</readable>
     </fieldPermissions>
-
+    <fieldPermissions>
         <field>Panel__c.Placement_Job_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>
