@@ -1438,14 +1438,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584659402571,
-            "changeTime": 1584659402571,
-            "contentHash": "9137b3f2667c76bce894a5074f921a9d4d12855d",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1584672008363,
+            "changeTime": 1584672008363,
+            "contentHash": "90874586042ad952d5d1760b9140f5aa421dbfd3"
         }
     ],
     [
@@ -1454,7 +1454,7 @@
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1584659195108,
+            "modifiedTime": 1584664179966,
             "changeTime": 1584646910330,
             "contentHash": "a798a271337c59bbc73c86a67e84d1985d650470",
             "isMetadataFile": false,
@@ -1477,14 +1477,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2273,
             "modifiedTime": 1584664179966,
             "changeTime": 1584664179966,
-            "contentHash": "2366cbc4084ae46f327a5c7e20769df2dff7a9d5"
+            "contentHash": "2366cbc4084ae46f327a5c7e20769df2dff7a9d5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1546,10 +1546,10 @@
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 773,
-            "modifiedTime": 1584664179962,
-            "changeTime": 1584664179962,
-            "contentHash": "6e8f16910143fbbd786447774f1f0d29e03ba7e0"
+            "size": 715,
+            "modifiedTime": 1584672008306,
+            "changeTime": 1584672008306,
+            "contentHash": "645bd517f94560fb657233728f0b2c4931dc5606"
         }
     ],
     [
@@ -1620,14 +1620,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 25895,
             "modifiedTime": 1584664180014,
             "changeTime": 1584664180014,
-            "contentHash": "4e2b4c0590451c673ccdbd79da4f63bd0114dd6f"
+            "contentHash": "4e2b4c0590451c673ccdbd79da4f63bd0114dd6f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1659,14 +1659,14 @@
     [
         "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584664179976,
             "changeTime": 1584664179976,
-            "contentHash": "c711b7c33bb9289fda8361a7359279d7724c9c52"
+            "contentHash": "c711b7c33bb9289fda8361a7359279d7724c9c52",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1728,10 +1728,10 @@
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 105,
-            "modifiedTime": 1584664179973,
-            "changeTime": 1584664179973,
-            "contentHash": "9635a56e921a014736912b9eb43901afb5ef8190"
+            "size": 119,
+            "modifiedTime": 1584672008333,
+            "changeTime": 1584672008333,
+            "contentHash": "6207f07aacc07ab46dae60a83af35540a6e18fcd"
         }
     ],
     [
@@ -1741,10 +1741,49 @@
             "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 958,
-            "modifiedTime": 1584664179976,
-            "changeTime": 1584664179976,
-            "contentHash": "015ea5c108d89addfcb58307ebf031820696e8c6"
+            "size": 972,
+            "modifiedTime": 1584672008344,
+            "changeTime": 1584672008344,
+            "contentHash": "04f09a17b545ea1b9ddc75645bbdddfea932d35e"
+        }
+    ],
+    [
+        "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\AppTesting\\AppTesting.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\AppTesting\\AppTesting.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1584672008365,
+            "changeTime": 1584672008365,
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+        }
+    ],
+    [
+        "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\AppTesting\\AppTesting.app",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\AppTesting\\AppTesting.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 82,
+            "modifiedTime": 1584672008372,
+            "changeTime": 1584672008372,
+            "contentHash": "d785aba8e2d94bd10e55be6c91380803303a6bbe"
+        }
+    ],
+    [
+        "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\AppTesting",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\domin\\OneDrive\\Documents\\Panelforce\\force-app\\main\\default\\aura\\AppTesting",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584672008372,
+            "changeTime": 1584672008372,
+            "contentHash": "1721ac029d8e59cc12fde70d25caeb7452a57560"
         }
     ]
 ]

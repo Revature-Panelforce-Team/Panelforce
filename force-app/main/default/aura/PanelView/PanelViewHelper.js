@@ -1,5 +1,5 @@
 ({
-	  initPanelRecordList : function(component) {
+	  initPanelRecordList : function(component,event, helper) {
 var action = component.get("c.getPanelResults");
         action.setParams({panelId : component.get("v.panelId")});
         action.setCallback(this, function(response) {
