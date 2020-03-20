@@ -111,13 +111,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Panel__c.Training_track__c</field>
         <field>Panel__c.Placement_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-
         <field>Technology__c.Weight_in_Panel_Results__c</field>
         <readable>true</readable>
     </fieldPermissions>
