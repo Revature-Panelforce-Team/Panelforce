@@ -1,4 +1,4 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+<aura:component controller = "TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
     <!-- Initializes User Data -->
     <aura:handler name="init" value="{!this}" action="{!c.onInit}" />
     <!-- When the User chooses a curriculum, I want the Rubric to be changed. -->
@@ -6,15 +6,18 @@
     <aura:attribute name="currUser" type="String" default=""/>
     <aura:attribute name="currCurriculum" type="String" default="currCurriculum"/>
     
+    <!--Register the event to transfer Curriculum ID to other component-->
+    <aura:registerEvent name = "CurrIdTransfer" type = "c:SubmitPanelCompPassCurrID"/>   
+    <aura:handler name = "CurrIdTransfer" event = "c:SubmitPanelCompPassCurrID" action = "{!c.selfHandle}"/>    
+    
     <!-- I need to alter the margin so it's not so much to the left. -->
     <lightning:card>
         <lightning:recordEditForm aura:id="recordEditForm" onsuccess="{!c.handleSuccess}"
                                   objectApiName="Panel__c">
-            <lightning:messages />
             <center><table>
                 <tr>
-                    <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Associate__c" /></div></td>
-                    <td><lightning:inputField fieldName="Recording_Link__c" /></td>
+                    <td><div class="slds-m-right_xx-large"><lightning:inputfield fieldName="Associate__c" /></div></td>
+                    <td><lightning:inputfield fieldName="Recording_Link__c" /></td>
                 </tr>
                 <br/>
                 <tr>
@@ -40,14 +43,9 @@
                 <br/>
                 <tr>
                     <div onchange="{!c.populateGrades}"><td><div class="slds-m-right_xx-large"><lightning:inputField aura:id="Curriculum" fieldName="Curriculum__c" /></div></td></div>
-                    <!-- There was another field to be added.
-					<td><lightning:inputField fieldName="" /></td>-->
                 </tr>
                 </table>
             </center>
-            Curriculum ID: {!v.currCurriculum}<br/>
-            This is to be passed to generate the rubric.<br/>
         </lightning:recordEditForm>
-        <lightning:button class="slds-m-top_small" label="Uses JS to submit form, so it can submit multiple forms." onclick="{!submitForm}" />
     </lightning:card>
 </aura:component>

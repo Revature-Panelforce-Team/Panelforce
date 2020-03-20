@@ -1,6 +1,7 @@
 <aura:component controller="TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
      <aura:attribute  name="tech" type="Technology__c[]" /> 
-    <aura:handler name="init" value="{!this}"  action="{!c.techlist}" />
+    
+    <aura:handler event = "c:SubmitPanelCompPassCurrID" action = "{!c.handleIdPass}"/>    
     
      <table class="slds-table slds-table_cell-buffer slds-no-row-hover slds-table_bordered">
   <thead>

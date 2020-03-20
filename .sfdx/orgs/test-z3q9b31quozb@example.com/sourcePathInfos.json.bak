@@ -1,0 +1,1675 @@
+[
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992061,
+            "changeTime": 1584538787528,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992062,
+            "changeTime": 1584538787529,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584658913629,
+            "changeTime": 1584656854332,
+            "contentHash": "493892058564846260ef1f246490be0740e9e636",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992064,
+            "changeTime": 1584538787530,
+            "contentHash": "1dd663e70f9ec167894d23f0a684a6d5447dfc31",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
+            "isDirectory": false,
+            "size": 933,
+            "modifiedTime": 1584545992064,
+            "changeTime": 1584538787530,
+            "contentHash": "41f02556cea8d3dd95909785e0b14e75eba8c240",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\appMenus",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\appMenus",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992063,
+            "changeTime": 1584538787529,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "size": 2200,
+            "modifiedTime": 1584545992063,
+            "changeTime": 1584538787529,
+            "contentHash": "f7c63db803b77df2848b7ad700d79dedf46d921e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992068,
+            "changeTime": 1584538787533,
+            "contentHash": "b9735dace3c8a4467cc337facef1ec99e08f6431",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\contentassets\\panel_logo.asset",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\contentassets\\panel_logo.asset",
+            "isDirectory": false,
+            "size": 104348,
+            "modifiedTime": 1584545992068,
+            "changeTime": 1584538787532,
+            "contentHash": "9bb0e15c3c7fa5e81014d8a140d30841962567d0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\contentassets\\panel_logo.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\contentassets\\panel_logo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1584545992069,
+            "changeTime": 1584538787533,
+            "contentHash": "377cc417c477797dd3318e542783cfef06be9ff9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992070,
+            "changeTime": 1584538787534,
+            "contentHash": "2811fc33814c38e2aa353a59933cc586e6dc9d59",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\flexipages\\Panel_Force_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\flexipages\\Panel_Force_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1584545992070,
+            "changeTime": 1584538787534,
+            "contentHash": "e8bcd069b2b3f1c60802c082e9400f56802718d4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992080,
+            "changeTime": 1584538787543,
+            "contentHash": "23ed759ef93b5eecdcf925d9a5687c2815859c28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10465,
+            "modifiedTime": 1584545992072,
+            "changeTime": 1584538787535,
+            "contentHash": "2006995b8a8b6947e5f607994bbb982ad4660bb9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10440,
+            "modifiedTime": 1584545992072,
+            "changeTime": 1584538787536,
+            "contentHash": "0885fe7804caa9333c98616473ad605b271b76c2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10142,
+            "modifiedTime": 1584545992075,
+            "changeTime": 1584538787537,
+            "contentHash": "f4d7af5d33b52a29324f19ff6677564aeb9ecc44",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10440,
+            "modifiedTime": 1584545992076,
+            "changeTime": 1584538787539,
+            "contentHash": "efa72e5d6225de0909a7ab76eb71211b0fcbbd5a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-contact%28associate%29 layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-contact%28associate%29 layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3664,
+            "modifiedTime": 1584545992077,
+            "changeTime": 1584538787540,
+            "contentHash": "a6d6f28694b891fb6a2d48d16020fdaa504eae95",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Panel Force Associate.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-Panel Force Associate.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2402,
+            "modifiedTime": 1584545992076,
+            "changeTime": 1584538787539,
+            "contentHash": "45d39cd7d50b28a2167d1324c4e4c08f0844fc0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-panelforce associate.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Contact-panelforce associate.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2402,
+            "modifiedTime": 1584545992078,
+            "changeTime": 1584538787541,
+            "contentHash": "45d39cd7d50b28a2167d1324c4e4c08f0844fc0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Panel_Results__c-Panel Result Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Panel_Results__c-Panel Result Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2995,
+            "modifiedTime": 1584545992079,
+            "changeTime": 1584538787542,
+            "contentHash": "04619d2293b523e0a03444225349bfd3474e8faa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Panel__c-Panel Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Panel__c-Panel Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5045,
+            "modifiedTime": 1584545992080,
+            "changeTime": 1584538787542,
+            "contentHash": "ed083a3ec35eddda2700ab961985559cc4bb1d62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Technology__c-Technology Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\layouts\\Technology__c-Technology Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3250,
+            "modifiedTime": 1584545992081,
+            "changeTime": 1584538787543,
+            "contentHash": "1679e35f6a7188acca9917e8100ffa6b04f59e01",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992128,
+            "changeTime": 1584538787574,
+            "contentHash": "8b3b2f48ad2eaac2bbc3723d3e7bfd3fdd91d422",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992097,
+            "changeTime": 1584538787556,
+            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992096,
+            "changeTime": 1584538787556,
+            "contentHash": "e23fc9090bfbd4e584f8e516e8c1126de725f09d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1202,
+            "modifiedTime": 1584545992092,
+            "changeTime": 1584538787553,
+            "contentHash": "b3f3cb41b6d73cfc2a0ccd5154f9c2cf025ccffc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1584545992094,
+            "changeTime": 1584538787554,
+            "contentHash": "9f04c77c3325b4b117c7c7c3bffd6f72ad4603a9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1584545992095,
+            "changeTime": 1584538787555,
+            "contentHash": "b6baf25524fd5d5631ccf287639605782f5fdb70",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1425,
+            "modifiedTime": 1584545992096,
+            "changeTime": 1584538787556,
+            "contentHash": "c26dbe3fe0eb7a6f103cb7392a13bdd357f7eb8b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992099,
+            "changeTime": 1584538787558,
+            "contentHash": "f5c19a39af592dabdca40d8b6d7181299009b5a6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2851,
+            "modifiedTime": 1584545992098,
+            "changeTime": 1584538787557,
+            "contentHash": "ca5d3b1b97807b96a91a21bab997ce95e279ed56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2852,
+            "modifiedTime": 1584545992099,
+            "changeTime": 1584538787558,
+            "contentHash": "b8eab6f485acac827724d2834a1522c70e971c76",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992101,
+            "changeTime": 1584538787559,
+            "contentHash": "eddec5a2cd98e9b96060d0f2d729e454f61fcf62",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5376,
+            "modifiedTime": 1584545992101,
+            "changeTime": 1584538787559,
+            "contentHash": "378c9f2b3082483067d704f17d3100261840578d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992102,
+            "changeTime": 1584538787560,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584545992102,
+            "changeTime": 1584538787560,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992109,
+            "changeTime": 1584538787564,
+            "contentHash": "8d6f2313e28e8d093d10576e4c22c7261e15b49f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992107,
+            "changeTime": 1584538787563,
+            "contentHash": "85bd0800f0d657ed0325ae3ffe6b883626c6eddc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1584545992104,
+            "changeTime": 1584538787562,
+            "contentHash": "5ff8d57740d046f2201c32d6341a79b5f979223a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 656,
+            "modifiedTime": 1584545992106,
+            "changeTime": 1584538787562,
+            "contentHash": "a869bb846cf497955e1de6517a1a1212ca014217",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technology__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technology__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 671,
+            "modifiedTime": 1584545992107,
+            "changeTime": 1584538787563,
+            "contentHash": "d1c9f842acc8da28c35013a8f6a445064c9a1622",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992109,
+            "changeTime": 1584538787564,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584545992110,
+            "changeTime": 1584538787564,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5459,
+            "modifiedTime": 1584545992103,
+            "changeTime": 1584538787561,
+            "contentHash": "a0a72862fef5cc4497a71dfea5aaefdf18f95673",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992126,
+            "changeTime": 1584538787573,
+            "contentHash": "c24181d81f9cb61babadedce9ba2ae2f882ac2cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992124,
+            "changeTime": 1584538787573,
+            "contentHash": "9eeae4f8cc25da957b5c714dcaf25ee5e1a7d360",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1584545992113,
+            "changeTime": 1584538787566,
+            "contentHash": "70f2dbe62ea0a875bb945f05f57f543d09e2c680",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1584545992114,
+            "changeTime": 1584538787567,
+            "contentHash": "61c748babbfa624f0ad67968ba02a9041f84eb62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 561,
+            "modifiedTime": 1584545992115,
+            "changeTime": 1584538787568,
+            "contentHash": "44f82e989cb2cb19a57575b3bceaca786f698f67",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1270,
+            "modifiedTime": 1584545992116,
+            "changeTime": 1584538787568,
+            "contentHash": "fb68ad948969ae9aa8e7a3ce9406f144afc2e99c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 371,
+            "modifiedTime": 1584545992117,
+            "changeTime": 1584538787569,
+            "contentHash": "6e4299bc24e254fb8354973fc5f5850bf68fa426",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 484,
+            "modifiedTime": 1584545992118,
+            "changeTime": 1584538787569,
+            "contentHash": "4f2a21bb42aec799a459ad53b440816af1527de9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1399,
+            "modifiedTime": 1584545992119,
+            "changeTime": 1584538787570,
+            "contentHash": "f114194cb5f831ef6c18041b899070b2fa36ed9d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 371,
+            "modifiedTime": 1584545992118,
+            "changeTime": 1584538787570,
+            "contentHash": "f033e4f71c5cf79de9424137ec54cb0ebb1940ec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 379,
+            "modifiedTime": 1584545992120,
+            "changeTime": 1584538787571,
+            "contentHash": "ce6e4a7c776e0f8c5daf6bcd8bc8c35a1653a76f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 497,
+            "modifiedTime": 1584545992122,
+            "changeTime": 1584538787572,
+            "contentHash": "51172232bd729c82c1bd3cbd952b16e6091ab9b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1584545992121,
+            "changeTime": 1584538787571,
+            "contentHash": "10262da01f1a8d3da17097ce5537aebd297ef8ce",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1584545992124,
+            "changeTime": 1584538787572,
+            "contentHash": "0a60807eee6b425162b8f51d2aa86f20a7b13efb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1584545992125,
+            "changeTime": 1584538787573,
+            "contentHash": "d3e5a7cff3da183380c420344de5230b39420728",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992126,
+            "changeTime": 1584538787573,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584545992127,
+            "changeTime": 1584538787574,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5361,
+            "modifiedTime": 1584545992111,
+            "changeTime": 1584538787565,
+            "contentHash": "fe4fc7c80d55de3462ff1e5bf2136e1f2dbdd7c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992134,
+            "changeTime": 1584538787577,
+            "contentHash": "e8f767d949db9cd0a1f44f60a0fe7463d6fb22b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992132,
+            "changeTime": 1584538787576,
+            "contentHash": "fdef53cfc5b02bcbcba35f2c1c0934cd4cde3735",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Curriculum__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 612,
+            "modifiedTime": 1584545992131,
+            "changeTime": 1584538787576,
+            "contentHash": "04ea1b2d5fdbe474894aa6cbe00fd3b96f8077d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1584545992132,
+            "changeTime": 1584538787576,
+            "contentHash": "16db2b141f1304d167c96116f735b27e485f7f78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992134,
+            "changeTime": 1584538787577,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584545992135,
+            "changeTime": 1584538787577,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\Technology__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objects\\Technology__c\\Technology__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5397,
+            "modifiedTime": 1584545992130,
+            "changeTime": 1584538787575,
+            "contentHash": "1ee0f6a814b130271d5e62120d27dcfd863581cf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992087,
+            "changeTime": 1584538787549,
+            "contentHash": "252ac0f9d12adba59369338d3f325d85e3d919eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992087,
+            "changeTime": 1584538787548,
+            "contentHash": "32b71f68a91c51c8d74496b8bc4d9c8985c4c74f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 797,
+            "modifiedTime": 1584545992082,
+            "changeTime": 1584538787545,
+            "contentHash": "77dc8cfa67df669693144125b2484bbef6511176",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1584545992083,
+            "changeTime": 1584538787546,
+            "contentHash": "f0e2c5d9d5f22fdc823ddf7e913e3a6e08b005f8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 1152,
+            "modifiedTime": 1584545992085,
+            "changeTime": 1584538787547,
+            "contentHash": "50b4546f0e36b15d5c758169c6ea71fdb5ac4d40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1584545992086,
+            "changeTime": 1584538787548,
+            "contentHash": "1c3febf8c374351b932ad50261d17b043006fc2d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 991,
+            "modifiedTime": 1584545992087,
+            "changeTime": 1584538787548,
+            "contentHash": "5939c76d228f3cc94ef5a5165624c4cb8a84dfa3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992089,
+            "changeTime": 1584538787551,
+            "contentHash": "f888aacc1906e3af0d1b47ccbe33366fb1a141a2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Curriculum__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Curriculum__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 279,
+            "modifiedTime": 1584545992088,
+            "changeTime": 1584538787550,
+            "contentHash": "5c30f0233aa0e622ee264037cadb85b2377c3c17",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Technology__c-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Technology__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1584545992089,
+            "changeTime": 1584538787551,
+            "contentHash": "00cb31293d4fa61fc82fcedfacdac0aa40f51879",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1584545992090,
+            "changeTime": 1584538787551,
+            "contentHash": "68a0782c30b417b970f6f7fb095b56ef48e2391d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992136,
+            "changeTime": 1584538787578,
+            "contentHash": "5554b5e94c58f3677d23b9bbfd340e571436c255",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 4874,
+            "modifiedTime": 1584545992136,
+            "changeTime": 1584538787579,
+            "contentHash": "92381655ea19ead362369aa7cdcb2b2bf97e590c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\reportTypes",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\reportTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992137,
+            "changeTime": 1584538787579,
+            "contentHash": "ef52a1fe946842084049bc01cdb603d78f050522",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+            "isDirectory": false,
+            "size": 5706,
+            "modifiedTime": 1584545992137,
+            "changeTime": 1584538787580,
+            "contentHash": "9e31683c70a547057cfd886231b8c32aa453a676",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\roles",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\roles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992138,
+            "changeTime": 1584538787580,
+            "contentHash": "865ed642fe5bdf81de8e837d57222690324daffe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
+            "isDirectory": false,
+            "size": 438,
+            "modifiedTime": 1584545992139,
+            "changeTime": 1584538787581,
+            "contentHash": "784ec4f9ad1c800a713864250831058e42192cc0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992141,
+            "changeTime": 1584538787582,
+            "contentHash": "10518a7efa13079ab181395be93ac2fb15200dfc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1584545992140,
+            "changeTime": 1584538787581,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1584545992141,
+            "changeTime": 1584538787582,
+            "contentHash": "c15fc6c7d56168514cb82eff7b8fc9d6130b22b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584545992145,
+            "changeTime": 1584538787585,
+            "contentHash": "ecede2482dec6e66e7a3035122133c0b90bf492b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1584545992142,
+            "changeTime": 1584538787583,
+            "contentHash": "ecf1f1d7c8a9a105e16a021d305ed4455dcd5abc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1584545992144,
+            "changeTime": 1584538787584,
+            "contentHash": "524534febffe3b7ca2afa80437c5430ff1a93eed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1584545992145,
+            "changeTime": 1584538787585,
+            "contentHash": "5a5bc34f4fc3e1cf717ee9d64d64283623c05a1b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Technology__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Technology__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1584545992146,
+            "changeTime": 1584538787586,
+            "contentHash": "8fd7cc0b195f639df5f003b30a5e895dd8fdef3e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584658899272,
+            "changeTime": 1584538787589,
+            "contentHash": "cf7c3d554a83cdf5a4b2e318ae2233f6fb0b8f7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584658913627,
+            "changeTime": 1584658913627,
+            "contentHash": "16e1b99d6dbfc5302d2d48e721fb27716713b0cb"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584658913629,
+            "changeTime": 1584656854332,
+            "contentHash": "8ab1a84adfe3e7567a4fdbe7ffaf2d471f89c939",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584658913629,
+            "changeTime": 1584656854333,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewApp",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584658913627,
+            "changeTime": 1584656854330,
+            "contentHash": "5b472ea6499928510dfef54f6d737cac4c6d8444",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584658913628,
+            "changeTime": 1584656854331,
+            "contentHash": "6fef5e31b816d2f584f372bb027aaab77a7a3abe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes\\TechDetails.cls",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes\\TechDetails.cls",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1584658913628,
+            "changeTime": 1584656854332,
+            "contentHash": "b50f04e964a262cc7e9719ddbce4a1d31769213b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes\\TechDetails.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes\\TechDetails.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584658913629,
+            "changeTime": 1584656854332,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 26597,
+            "modifiedTime": 1584658913629,
+            "changeTime": 1584656854333,
+            "contentHash": "7bf6b84ae7804ffae70490a5d2fdbafd68b9922a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app",
+            "isDirectory": false,
+            "size": 89,
+            "modifiedTime": 1584658913626,
+            "changeTime": 1584656854330,
+            "contentHash": "e98c23a42b6173a9fbfdc3aca1b589bbacc84932",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584658913627,
+            "changeTime": 1584656854330,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp",
+            "isDirectory": false,
+            "size": 2779,
+            "modifiedTime": 1584658913627,
+            "changeTime": 1584656854331,
+            "contentHash": "b2031ab281c8ec61592a4bc00e0f42093d1b1777",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584658913628,
+            "changeTime": 1584656854331,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewCompController.js",
+        {
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewCompController.js",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1584658913628,
+            "changeTime": 1584656854332,
+            "contentHash": "cc1cd6c0e109d24cbdd400360191374b486c09bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584658899274,
+            "changeTime": 1584658899274,
+            "contentHash": "cc82bc635f2e03bf16ff1ec5ed8df4e577ad97b7"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3341,
+            "modifiedTime": 1584658899273,
+            "changeTime": 1584658899273,
+            "contentHash": "c918548932d2b53ae2b819e812f91a439c43d8d4"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1584658899274,
+            "changeTime": 1584658899274,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7,
+            "modifiedTime": 1584658899274,
+            "changeTime": 1584658899274,
+            "contentHash": "004a54bc211979229938db5175399d378aaffb25"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1584658899274,
+            "changeTime": 1584658899274,
+            "contentHash": "1261ccee4847188465edef73475e63eb1774ccff"
+        }
+    ]
+]
