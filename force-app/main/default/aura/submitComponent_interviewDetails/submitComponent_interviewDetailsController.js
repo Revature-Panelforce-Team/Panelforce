@@ -6,21 +6,15 @@
         },
     submitForm : function(component, event, helper)
     	{
-            var form = component.find("recordEditForm");
-            form.submit();
+            console.log("you have entered submitForm");
+            component.find("recordEditForm").submit();
         },
     handleSuccess : function(component, event, helper)
     	{
             var panel = event.getParams().response;
             console.log(panel.id); // Do more by passing this as an input to a method to insert grades
-		},
-    
-     selfHandle : function(component, event, helper)
-    	{
-         	console.log("youve entered selfHandle");
-            var currId = event.getParam("currCurriculumId");
-            console.log(currId);
-
+            component.set("v.panelId", panel.id);
+            console.log(component.get("v.panelId"));
 		},
     
     populateGrades : function(component, event, helper)

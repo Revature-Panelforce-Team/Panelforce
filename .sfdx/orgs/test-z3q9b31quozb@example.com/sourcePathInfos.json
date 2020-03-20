@@ -32,40 +32,40 @@
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453752,
             "changeTime": 1584675453752,
-            "contentHash": "d252fd860a883b96f9988cee4866e3dc7d725818"
+            "contentHash": "d252fd860a883b96f9988cee4866e3dc7d725818",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453690,
             "changeTime": 1584675453690,
-            "contentHash": "6b61122e77e26e1b906876e8b248c698bdafb805"
+            "contentHash": "6b61122e77e26e1b906876e8b248c698bdafb805",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 941,
             "modifiedTime": 1584675453689,
             "changeTime": 1584675453689,
-            "contentHash": "e01e06333df8455bb7a3720363151137d9c8e1de"
+            "contentHash": "e01e06333df8455bb7a3720363151137d9c8e1de",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1346,14 +1346,14 @@
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453682,
             "changeTime": 1584675453682,
-            "contentHash": "f10cb142bca65ed0ce02c5824772c9758b0ad031"
+            "contentHash": "f10cb142bca65ed0ce02c5824772c9758b0ad031",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1439,9 +1439,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1584675453672,
-            "changeTime": 1584675453672,
-            "contentHash": "3bddf6a74463cf224a468eb475b0483df4b4d323"
+            "modifiedTime": 1584719879436,
+            "changeTime": 1584719879436,
+            "contentHash": "d50bf787b3cdc5914ff2dbefbb804679b61871fe"
         }
     ],
     [
@@ -1450,7 +1450,7 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1584662498546,
+            "modifiedTime": 1584675453693,
             "changeTime": 1584656854332,
             "contentHash": "8ab1a84adfe3e7567a4fdbe7ffaf2d471f89c939",
             "isMetadataFile": false,
@@ -1460,14 +1460,14 @@
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453748,
             "changeTime": 1584675453748,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1489,7 +1489,7 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1584662498546,
+            "modifiedTime": 1584675453677,
             "changeTime": 1584656854331,
             "contentHash": "6fef5e31b816d2f584f372bb027aaab77a7a3abe",
             "isMetadataFile": false,
@@ -1499,14 +1499,14 @@
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes\\TechDetails.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\classes\\TechDetails.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 423,
             "modifiedTime": 1584675453693,
             "changeTime": 1584675453693,
-            "contentHash": "3ce6a79a44389df60dd8d5003d2e9ff02e127945"
+            "contentHash": "3ce6a79a44389df60dd8d5003d2e9ff02e127945",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1529,10 +1529,10 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 26037,
-            "modifiedTime": 1584675453731,
-            "changeTime": 1584675453731,
-            "contentHash": "33c796037d11f6bce1c401357b7f733974bab0b6"
+            "size": 26035,
+            "modifiedTime": 1584719879494,
+            "changeTime": 1584719879494,
+            "contentHash": "0109433b665d1cc1bf00ef9493f224a3c5c84e8c"
         }
     ],
     [
@@ -1564,14 +1564,14 @@
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2729,
             "modifiedTime": 1584675453677,
             "changeTime": 1584675453677,
-            "contentHash": "bd496e0f346ffae0ff71d145b4d3b61c38d42aaf"
+            "contentHash": "bd496e0f346ffae0ff71d145b4d3b61c38d42aaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1590,14 +1590,14 @@
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewCompController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewCompController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 436,
             "modifiedTime": 1584675453676,
             "changeTime": 1584675453676,
-            "contentHash": "8fb0e3fd9f05f82517721951ee26106f7961b41c"
+            "contentHash": "8fb0e3fd9f05f82517721951ee26106f7961b41c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1606,7 +1606,7 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1584662515014,
+            "modifiedTime": 1584675453680,
             "changeTime": 1584658899274,
             "contentHash": "cc82bc635f2e03bf16ff1ec5ed8df4e577ad97b7",
             "isMetadataFile": false,
@@ -1620,10 +1620,10 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 3190,
-            "modifiedTime": 1584675453679,
-            "changeTime": 1584675453679,
-            "contentHash": "ca1a16fccdfacfeccf77faa6814ef687d2414c64"
+            "size": 3393,
+            "modifiedTime": 1584719879445,
+            "changeTime": 1584719879445,
+            "contentHash": "af9ec5a298f47b49587d4ad9e913c5f2705a38a0"
         }
     ],
     [
@@ -1659,49 +1659,49 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetailsController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1207,
-            "modifiedTime": 1584675453680,
-            "changeTime": 1584675453680,
-            "contentHash": "a9e53ab8bc1555e1936aeeb66ecbaa553c30f2cc"
+            "size": 1121,
+            "modifiedTime": 1584719879452,
+            "changeTime": 1584719879452,
+            "contentHash": "765fcd2d567a6c41213de0220b85d1d4746a02e4"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1584675453664,
             "changeTime": 1584675453664,
-            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 108,
             "modifiedTime": 1584675453666,
             "changeTime": 1584675453666,
-            "contentHash": "c4b8a9271ace58cab7f6ec6b77dcf61dda457cc9"
+            "contentHash": "c4b8a9271ace58cab7f6ec6b77dcf61dda457cc9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1584675453669,
             "changeTime": 1584675453669,
-            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1711,10 +1711,10 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 309,
-            "modifiedTime": 1584675453670,
-            "changeTime": 1584675453670,
-            "contentHash": "5c34daed3a0d548414645d955d6c44cde1198649"
+            "size": 979,
+            "modifiedTime": 1584719879422,
+            "changeTime": 1584719879422,
+            "contentHash": "6de5d14b57e6d662fb798975e3e7f754e013f84b"
         }
     ],
     [
@@ -1724,23 +1724,23 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_ParentController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 60,
-            "modifiedTime": 1584675453671,
-            "changeTime": 1584675453671,
-            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1"
+            "size": 163,
+            "modifiedTime": 1584719879428,
+            "changeTime": 1584719879428,
+            "contentHash": "01c551b7423674ff75ca97d5eeb6e2f8205ed2c1"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1584675453672,
             "changeTime": 1584675453672,
-            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1750,166 +1750,205 @@
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 130,
-            "modifiedTime": 1584675453673,
-            "changeTime": 1584675453673,
-            "contentHash": "1c86f7d39fc8f4f4c7dbd6b9593a8d80987d6929"
+            "size": 93,
+            "modifiedTime": 1584719879435,
+            "changeTime": 1584719879435,
+            "contentHash": "1c8cfb0b80daddc4fb1d6af633fa1a8815badf76"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Submit_a_Panel.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\tabs\\Submit_a_Panel.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 244,
             "modifiedTime": 1584675453682,
             "changeTime": 1584675453682,
-            "contentHash": "a9f51001cba23332536628756f055c9acd13f146"
+            "contentHash": "a9f51001cba23332536628756f055c9acd13f146",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications\\standard__Service.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\applications\\standard__Service.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 358,
             "modifiedTime": 1584675453690,
             "changeTime": 1584675453690,
-            "contentHash": "a2c07c255267abba0e69c340eb6a585734378e0a"
+            "contentHash": "a2c07c255267abba0e69c340eb6a585734378e0a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9994,
             "modifiedTime": 1584675453737,
             "changeTime": 1584675453737,
-            "contentHash": "256ef8b280815ad2f95848c44e1f428b405ad24b"
+            "contentHash": "256ef8b280815ad2f95848c44e1f428b405ad24b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9662,
             "modifiedTime": 1584675453743,
             "changeTime": 1584675453743,
-            "contentHash": "4f78898122139c5635c4052e3f7240a64b304828"
+            "contentHash": "4f78898122139c5635c4052e3f7240a64b304828",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9650,
             "modifiedTime": 1584675453749,
             "changeTime": 1584675453749,
-            "contentHash": "e6a11494a6fbf600f2b0c7d57d6ac9dfdc7f6cdf"
+            "contentHash": "e6a11494a6fbf600f2b0c7d57d6ac9dfdc7f6cdf",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1584662884030.profilePasswordPolicy-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1584662884030.profilePasswordPolicy-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 632,
             "modifiedTime": 1584675453751,
             "changeTime": 1584675453751,
-            "contentHash": "e4326bb1a1bf01c5ba204cb0fba5919606333b8e"
+            "contentHash": "e4326bb1a1bf01c5ba204cb0fba5919606333b8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1584662884177.profileSessionSetting-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1584662884177.profileSessionSetting-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 432,
             "modifiedTime": 1584675453753,
             "changeTime": 1584675453753,
-            "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c"
+            "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453666,
             "changeTime": 1584675453666,
-            "contentHash": "e515b684e79a255e6e76169b051f9b1a59e09e9c"
+            "contentHash": "e515b684e79a255e6e76169b051f9b1a59e09e9c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parent",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parent",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453670,
             "changeTime": 1584675453670,
-            "contentHash": "8429aaf7965cbdd04ffe34aa9c0084d1dc18432f"
+            "contentHash": "8429aaf7965cbdd04ffe34aa9c0084d1dc18432f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parentapp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_Parentapp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453673,
             "changeTime": 1584675453673,
-            "contentHash": "2b70fdd3bd55857d6eda5ec6b5d33229e5a32e0e"
+            "contentHash": "2b70fdd3bd55857d6eda5ec6b5d33229e5a32e0e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profilePasswordPolicies",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profilePasswordPolicies",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453751,
             "changeTime": 1584675453751,
-            "contentHash": "bb327e9ee10de485a170a7f51bda18f90b9d10c7"
+            "contentHash": "bb327e9ee10de485a170a7f51bda18f90b9d10c7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profileSessionSettings",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\profileSessionSettings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584675453753,
             "changeTime": 1584675453753,
-            "contentHash": "2403b83c667a1adab60a5a8d512d6aa6efbb3fbf"
+            "contentHash": "2403b83c667a1adab60a5a8d512d6aa6efbb3fbf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1584719879437,
+            "changeTime": 1584719879437,
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 137,
+            "modifiedTime": 1584719879438,
+            "changeTime": 1584719879438,
+            "contentHash": "06515603f610e4bf35b52a16b3c742b4ce13cea5"
+        }
+    ],
+    [
+        "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jshoe\\Documents\\Training\\Project 3\\PanelForce\\PanelForce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584719879438,
+            "changeTime": 1584719879438,
+            "contentHash": "8bbb8a8c92ace76d7ad65b64994d92a8d2809030"
         }
     ]
 ]

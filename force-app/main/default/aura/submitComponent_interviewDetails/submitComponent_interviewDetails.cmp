@@ -5,14 +5,19 @@
     <aura:handler name="change" value="{!Curriculum}" action="{!c.populateGrades}" />
     <aura:attribute name="currUser" type="String" default=""/>
     <aura:attribute name="currCurriculum" type="String" default="currCurriculum"/>
+    <aura:attribute name = "panelId" type = "String" />
     
     <!--Register the event to transfer Curriculum ID to other component-->
-    <aura:registerEvent name = "CurrIdTransfer" type = "c:SubmitPanelCompPassCurrID"/>   
-    <aura:handler name = "CurrIdTransfer" event = "c:SubmitPanelCompPassCurrID" action = "{!c.selfHandle}"/>    
+    <aura:registerEvent name = "CurrIdTransfer" type = "c:SubmitPanelCompPassCurrID"/>
+    <!--Handle the Submit Button Event-->
+    <aura:handler event = "c:submitComponent_submitPanelRecord" action = "{!c.submitForm}"/>
     
     <!-- I need to alter the margin so it's not so much to the left. -->
     <lightning:card>
-        <lightning:recordEditForm aura:id="recordEditForm" onsuccess="{!c.handleSuccess}"
+        <lightning:messages/>
+        <lightning:recordEditForm aura:id="recordEditForm" 
+                                  onsuccess="{!c.handleSuccess}"
+                                  onsubmit = "{!c.submitForm}"
                                   objectApiName="Panel__c">
             <center><table>
                 <tr>

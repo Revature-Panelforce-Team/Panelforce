@@ -1,5 +1,23 @@
 <aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    
+    <!--Register the application event that submits panel record and panel results records-->
+    <aura:registerEvent name = "submitPanel" type = "c:submitComponent_submitPanelRecord" />
+    <!--Embed child components-->
     <c:submitComponent_interviewDetails/>
     <c:TechInterviewComp/>
+    
+    <!--Need to
+	Submit recordform from stephs
+	insert panelresults records from linds
+	create a button that does that
+		fires application event
+	create handlers in both
+		recordform handler
+			-submit recordform
+		techdetail handler
+			-insert panelresults within apex trigger -->
+    
+    <br/><br/><br/><br/><br/>
+    <div class="slds-align_absolute-center"><lightning:button label = "Submit Panel" onclick = "{!c.submitEvent}"/></div>
     
 </aura:component>
