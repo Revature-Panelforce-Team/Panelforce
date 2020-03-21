@@ -1,8 +1,17 @@
 <aura:component controller="TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
-     <aura:attribute  name="tech" type="Technology__c[]" /> 
-    <aura:attribute name = "grade" type = "Integer[]"/>
+     <aura:attribute  name="panelTechs" type="Panel_Results__c[]" /> 
+    <aura:attribute name = "panelId" type = "String"/>
+    <aura:attribute name = "techGrade" type = "String" />
+    <aura:attribute name = "techGradeList" type = "List"/>
     
-    <aura:handler event = "c:SubmitPanelCompPassCurrID" action = "{!c.handleIdPass}"/>    
+    <!--Handle Curriculum ID Pass Event-->
+    <aura:handler event = "c:SubmitPanelCompPassCurrID" action = "{!c.handleIdPass}"/>
+    
+    <!--Handle PanelId Pass Event-->
+    <aura:handler event = "c:submitComponent_passPanelId" action = "{!c.handlePanelIdPass}"/>
+    
+    <!--Handle Submit Event-->
+    <aura:handler event = "c:submitComponent_submitPanelRecord" action = "{!c.handleSubmit}"/>
     
      <table class="slds-table slds-table_cell-buffer slds-no-row-hover slds-table_bordered">
   <thead>
@@ -26,18 +35,22 @@
   </thead>
          
          <tbody>
-         <aura:iteration items="{!v.tech}" var="item">
+         <aura:iteration items="{!v.panelTechs}" var="item" indexVar = "i">
              <tr class="slds-hint-parent">
       <th data-label="Technology" scope="row">
         <div class="slds-truncate" title="Tech Name">
-        {!item.Name}
+        {!item.Technology__c}
+            {!i}
         </div>
       </th>
       <td data-label="Max Score">
         <div class="slds-truncate" title="Max"> {!item.Weight_in_Panel_Results__c}</div>
       </td>
       <td data-label="Actual Score">
-          <div class="slds-truncate" title="Actual"> <lightning:input aura:id = "gradeList"/></div>
+          <div class="slds-truncate" title="Actual"> <lightning:input type = "text" 
+                                                                      name = "{!i}" 
+                                                                      value ="{!item.Grade}" 
+                                                                      onchange ="{!c.updateGradeList}"/></div>
       </td>
       <td data-label="Repanel">
         <div class="slds-truncate" title="Repanel">______</div>
@@ -72,7 +85,5 @@
     Client Interview Ready? : _______________ 
     
     Panel Comments:  <ui:inputnumber value="comments"/>
-    
-    <lightning:button label = "Test Button" onclick = "{!c.testMethod}"/>
- 
+     
 </aura:component>
