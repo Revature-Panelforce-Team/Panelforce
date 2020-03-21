@@ -1,8 +1,9 @@
 <aura:component controller="TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
-     <aura:attribute  name="panelTechs" type="Panel_Results__c[]" /> 
+     <aura:attribute  name="panelTechs" type="List" /> 
     <aura:attribute name = "panelId" type = "String"/>
     <aura:attribute name = "techGrade" type = "String" />
     <aura:attribute name = "techGradeList" type = "List"/>
+    <aura:attribute name = "curriculumId" type = "String" />
     
     <!--Handle Curriculum ID Pass Event-->
     <aura:handler event = "c:SubmitPanelCompPassCurrID" action = "{!c.handleIdPass}"/>
@@ -39,8 +40,7 @@
              <tr class="slds-hint-parent">
       <th data-label="Technology" scope="row">
         <div class="slds-truncate" title="Tech Name">
-        {!item.Technology__c}
-            {!i}
+        {!item.Name}
         </div>
       </th>
       <td data-label="Max Score">
@@ -49,7 +49,7 @@
       <td data-label="Actual Score">
           <div class="slds-truncate" title="Actual"> <lightning:input type = "text" 
                                                                       name = "{!i}" 
-                                                                      value ="{!item.Grade}" 
+                                                                      value ="" 
                                                                       onchange ="{!c.updateGradeList}"/></div>
       </td>
       <td data-label="Repanel">

@@ -11,6 +11,8 @@
         })
         
         $A.enqueueAction(beginPanelAction);
+        
+        component.set("v.showPanelComponents", "true");
     },
     
     submitEvent : function(component, event, helper) {

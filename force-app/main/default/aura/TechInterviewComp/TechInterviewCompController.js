@@ -2,10 +2,10 @@
     //Populate the Technology Fields
     handleIdPass : function(component, event, helper) {
         var currId = event.getParam("currCurriculumId");
+        component.set("v.curriculumId", currId);
         var action = component.get("c.getCurriculumTechs");
         action.setParams({
             curriculumId : currId,
-            panelId : component.get("v.panelId")
         });
         action.setCallback(this, function(response){
             component.set("{!v.panelTechs}",response.getReturnValue());
@@ -30,10 +30,8 @@
         var action = component.get("c.submitPanel"); //send paneltech list and techgrade list to apex
         action.setParams({
             panelTech : component.get("v.panelTechs"),
-            gradeList : component.get("v.techGradeList")
-        })
-        action.setCallback(this,function(response){
-            console.log("you have sent the paneltechlist and the techgradelist to apex");
+            gradeList : component.get("v.techGradeList"),
+            panelId : component.get("v.panelId")
         })
         
         $A.enqueueAction(action);
