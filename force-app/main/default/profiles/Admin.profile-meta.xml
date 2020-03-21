@@ -5,7 +5,6 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    <custom>false</custom>
     <classAccesses>
         <apexClass>PanelListViewAPEXController</apexClass>
         <enabled>true</enabled>
@@ -14,6 +13,15 @@
         <apexClass>PanelViewAPEXController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>TestPanelListViewPAPEXController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>TestPanelViewAPEXController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
         <field>Contact.Batch__c</field>
@@ -105,9 +113,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Panel__c.Recording_Link__c</field>
-        <readable>true</readable>
+        <editable>false</editable>
+        <field>Panel__c.Placement_Company__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -115,11 +123,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Technology__c.Weight_in_Panel_Results__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
+        <editable>false</editable>
         <field>Panel__c.Placement_Job_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -133,22 +137,26 @@
         <field>Panel__c.Training_track__c</field>
         <readable>true</readable>
     </fieldPermissions>
-
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Technology__c.Weight_in_Panel_Results__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Contact-Contact Layout</layout>
     </layoutAssignments>
-
     <layoutAssignments>
-
+        <layout>Contact-Contact Layout</layout>
+        <recordType>Contact.PanelForce_Associate</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Contact-contact%28associate%29 layout</layout>
         <recordType>Contact.Panel_Force_Associate</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Curriculum__c-Curriculum Layout</layout>
     </layoutAssignments>
-
     <layoutAssignments>
-
         <layout>Panel_Results__c-Panel Result Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -194,7 +202,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>
-
         <default>true</default>
         <recordType>Contact.Panel_Force_Associate</recordType>
         <visible>true</visible>
@@ -214,7 +221,6 @@
     <tabVisibilities>
         <tab>Technology__c</tab>
         <visibility>DefaultOn</visibility>
-
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
