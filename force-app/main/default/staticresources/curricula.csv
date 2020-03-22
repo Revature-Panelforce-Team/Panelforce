@@ -1,4 +1,4 @@
-Id,Active__c,Bypass_Validation_Rule__c,Name
-a003h000001jDubAAE,FALSE,TRUE,Salesforce
-a003h000001jDuvAAE,FALSE,TRUE,Java Full Stack
-a003h000001jDuwAAE,FALSE,TRUE,Business Analysis
+Id,Active__c,Name
+a003h000001jDubAAE,FALSE,Salesforce
+a003h000001jDuvAAE,FALSE,Java Full Stack
+a003h000001jDuwAAE,FALSE,Business Analysis
