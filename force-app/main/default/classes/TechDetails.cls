@@ -37,9 +37,7 @@ public with sharing class TechDetails {
             panelTechResult.Grade__c = gradeInt;
             panelResultsList.add(panelTechResult);
         }
-        
         insert panelResultsList;
-        
     }
     
 }
