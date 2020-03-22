@@ -1,0 +1,3 @@
+<aura:event type="APPLICATION">
+    <aura:attribute name = "message" type = "String" default = "you have fired the event"/>
+</aura:event>

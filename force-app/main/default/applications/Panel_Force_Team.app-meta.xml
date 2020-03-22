@@ -19,6 +19,7 @@
     <tabs>Panel_Results__c</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Submit_a_Panel</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Panel_Force_UtilityBar</utilityBar>
 </CustomApplication>
