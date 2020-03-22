@@ -6,7 +6,7 @@
 public class DataFactory {  
     
     
-
+    
     // some records need to be created before others
     // panelist / associates / curricula ---> panels / technologies ---> panel results
     private static Boolean panelist_created = false;
@@ -23,7 +23,7 @@ public class DataFactory {
     private static Id panelistid;
     
     
-        
+    
     // creates a panelist for use with panel objects
     public static User createPanelist() {
         
@@ -44,6 +44,21 @@ public class DataFactory {
             panelistid = panelist.Id; // update static var with id generated from insertion
         } catch (Exception e) {
             System.assert(false, 'DataFactory.createPanelist: Failed to create panelist. '+e.getMessage());
+        }
+        
+        // retrieve permission set and assign it to panelist
+        System.runAs(new User(Id = Userinfo.getUserId())) {
+            PermissionSet permission;
+            try {
+                permission = [SELECT Id FROM PermissionSet WHERE Name = 'panel_force'];
+            } catch (Exception e) {
+                System.assert(false, 'DataFactory.createPanelist: Failed to retrieve permission set.');
+            }
+            try {
+                insert new PermissionSetAssignment(AssigneeId = panelist.id, PermissionSetId = permission.Id);
+            } catch (Exception e) {
+                System.assert(false, 'DataFactory.createPanelist: Failed to assign permission set to panelist. '+e.getMessage());
+            }
         }
         
         panelist_created = true;
@@ -90,6 +105,7 @@ public class DataFactory {
     
     
     // creates a set of curricula using the 'curricula' static resource
+    // also creates technologies using the 'technologies' static resource
     public static List<Curriculum__c> createCurricula() {
         
         System.assert(!curricula_created, 'DataFactory.createCurricula: Curricula already created.');
@@ -104,14 +120,26 @@ public class DataFactory {
         
         curricula_created = true;
         
+        // create technologies related to curricula
+        createTechnologies();
+        
+        // set curricula to active
+        for (Curriculum__c c : curricula) c.Active__c = TRUE;
+        try {
+            update curricula;
+        } catch (Exception e) {
+            System.assert(false, 'DataFactory.createCurricula: Failed to set curricula to Active.');
+        }
+        
         return curricula;
     }
     
     
     
+    // THIS METHOD SHOULD ONLY BE USED INSIDE OF CREATECURRICULA()
     // creates a set of technologies using the 'technologies' static resource
     // note: curricula needs to be loaded first due to relationships
-    public static List<Technology__c> createTechnologies() {
+    private static List<Technology__c> createTechnologies() {
         
         System.assert(!technologies_created, 'DataFactory.createTechnologies: Technologies already created.');
         System.assert(curricula_created, 'DataFactory.createTechnologies: Curricula must be created before technologies.');
@@ -197,9 +225,6 @@ public class DataFactory {
         
         // create curricula
         List<Curriculum__c> curricula = DataFactory.createCurricula();
-        
-        // create technologies
-        List<Technology__c> technologies = DataFactory.createTechnologies();
         
         // create panels
         List<Panel__c> panels = DataFactory.createPanels();
