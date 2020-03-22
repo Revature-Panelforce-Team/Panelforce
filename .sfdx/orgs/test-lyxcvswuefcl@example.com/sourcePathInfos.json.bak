@@ -2,14 +2,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654413,
             "changeTime": 1584576666312,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654413,
             "changeTime": 1584576666315,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654536,
-            "changeTime": 1584576666318,
-            "contentHash": "0b653db2ab5e1a744845351fe5df15c58a6fc1a2",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 0,
+            "modifiedTime": 1584634268413,
+            "changeTime": 1584634268413,
+            "contentHash": "3ef7dfa6073ecceea869344880cfcac4d2f0f636",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\applications",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\applications",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654416,
             "changeTime": 1584576666323,
             "contentHash": "1dd663e70f9ec167894d23f0a684a6d5447dfc31",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 933,
             "modifiedTime": 1584576654416,
-            "changeTime": 1584576671585,
+            "changeTime": 1584650472900,
             "contentHash": "41f02556cea8d3dd95909785e0b14e75eba8c240",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\appMenus",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\appMenus",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654415,
             "changeTime": 1584576666326,
             "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2200,
             "modifiedTime": 1584576654415,
-            "changeTime": 1584576671852,
+            "changeTime": 1584650472910,
             "contentHash": "f7c63db803b77df2848b7ad700d79dedf46d921e",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\contentassets",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\contentassets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654420,
             "changeTime": 1584576666329,
             "contentHash": "b9735dace3c8a4467cc337facef1ec99e08f6431",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 104348,
             "modifiedTime": 1584576654419,
-            "changeTime": 1584576671974,
+            "changeTime": 1584650472918,
             "contentHash": "9bb0e15c3c7fa5e81014d8a140d30841962567d0",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 550,
             "modifiedTime": 1584576654420,
-            "changeTime": 1584576671857,
+            "changeTime": 1584650472921,
             "contentHash": "377cc417c477797dd3318e542783cfef06be9ff9",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +152,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\flexipages",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654421,
             "changeTime": 1584576666332,
             "contentHash": "2811fc33814c38e2aa353a59933cc586e6dc9d59",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +167,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\flexipages\\Panel_Force_UtilityBar.flexipage-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\flexipages\\Panel_Force_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 522,
             "modifiedTime": 1584576654422,
-            "changeTime": 1584576671998,
+            "changeTime": 1584650472930,
             "contentHash": "e8bcd069b2b3f1c60802c082e9400f56802718d4",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,27 +182,29 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1584642387554,
-            "changeTime": 1584642387554,
-            "contentHash": "2c8ff6af6ab967112931976f727f5bfcc6c58424"
+            "modifiedTime": 1584647268619,
+            "changeTime": 1584647268619,
+            "contentHash": "23ed759ef93b5eecdcf925d9a5687c2815859c28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 10465,
             "modifiedTime": 1584576654426,
-            "changeTime": 1584576672673,
+            "changeTime": 1584650472938,
             "contentHash": "2006995b8a8b6947e5f607994bbb982ad4660bb9",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -210,14 +212,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 10440,
             "modifiedTime": 1584576654427,
-            "changeTime": 1584576672700,
+            "changeTime": 1584650472946,
             "contentHash": "0885fe7804caa9333c98616473ad605b271b76c2",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -225,14 +227,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 10142,
             "modifiedTime": 1584576654430,
-            "changeTime": 1584576672601,
+            "changeTime": 1584650472955,
             "contentHash": "f4d7af5d33b52a29324f19ff6677564aeb9ecc44",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -240,14 +242,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 10440,
             "modifiedTime": 1584576654430,
-            "changeTime": 1584576672574,
+            "changeTime": 1584650472963,
             "contentHash": "efa72e5d6225de0909a7ab76eb71211b0fcbbd5a",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -255,14 +257,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-contact%28associate%29 layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-contact%28associate%29 layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3664,
             "modifiedTime": 1584576654433,
-            "changeTime": 1584576672453,
+            "changeTime": 1584650472970,
             "contentHash": "a6d6f28694b891fb6a2d48d16020fdaa504eae95",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -270,14 +272,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Panel Force Associate.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Panel Force Associate.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2402,
             "modifiedTime": 1584576654431,
-            "changeTime": 1584576672357,
+            "changeTime": 1584650472977,
             "contentHash": "45d39cd7d50b28a2167d1324c4e4c08f0844fc0d",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -285,29 +287,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-panelforce associate.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Contact-panelforce associate.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2402,
             "modifiedTime": 1584576654434,
-            "changeTime": 1584576672254,
+            "changeTime": 1584650472984,
             "contentHash": "45d39cd7d50b28a2167d1324c4e4c08f0844fc0d",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Curriculum__c-Curriculum Layout.layout-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Curriculum__c-Curriculum Layout.layout-meta.xml",
-            "isDirectory": false,
-            "size": 3133,
-            "modifiedTime": 1584105171006,
-            "changeTime": 1584105183072,
-            "contentHash": "87884edc8e1d2809f9a670f10b4af60541797ccd",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -315,14 +302,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Panel_Results__c-Panel Result Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Panel_Results__c-Panel Result Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2995,
             "modifiedTime": 1584576654435,
-            "changeTime": 1584576672200,
+            "changeTime": 1584650472987,
             "contentHash": "04619d2293b523e0a03444225349bfd3474e8faa",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -330,1249 +317,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Panel__c-Panel Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Panel__c-Panel Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 5045,
-            "modifiedTime": 1584576654435,
-            "changeTime": 1584576672400,
-            "contentHash": "ed083a3ec35eddda2700ab961985559cc4bb1d62",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Technlogy__c-Technlogy Layout.layout-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Technlogy__c-Technlogy Layout.layout-meta.xml",
-            "isDirectory": false,
-            "size": 3008,
-            "modifiedTime": 1584105171008,
-            "changeTime": 1584105182986,
-            "contentHash": "552e29ce2c774f0f5b395cc20a93614395505f64",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\lwc",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\lwc",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584107585870,
-            "changeTime": 1584107585870,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654527,
-            "changeTime": 1584576666363,
-            "contentHash": "8b3b2f48ad2eaac2bbc3723d3e7bfd3fdd91d422",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654506,
-            "changeTime": 1584576666485,
-            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654506,
-            "changeTime": 1584576666490,
-            "contentHash": "e23fc9090bfbd4e584f8e516e8c1126de725f09d",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 1202,
-            "modifiedTime": 1584576654503,
-            "changeTime": 1584576674613,
-            "contentHash": "b3f3cb41b6d73cfc2a0ccd5154f9c2cf025ccffc",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1584576654504,
-            "changeTime": 1584576674552,
-            "contentHash": "9f04c77c3325b4b117c7c7c3bffd6f72ad4603a9",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1584576654505,
-            "changeTime": 1584576674494,
-            "contentHash": "b6baf25524fd5d5631ccf287639605782f5fdb70",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 1425,
-            "modifiedTime": 1584576654506,
-            "changeTime": 1584576674464,
-            "contentHash": "c26dbe3fe0eb7a6f103cb7392a13bdd357f7eb8b",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654509,
-            "changeTime": 1584576666494,
-            "contentHash": "f5c19a39af592dabdca40d8b6d7181299009b5a6",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
-            "isDirectory": false,
-            "size": 2851,
-            "modifiedTime": 1584576654508,
-            "changeTime": 1584576674765,
-            "contentHash": "ca5d3b1b97807b96a91a21bab997ce95e279ed56",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
-            "isDirectory": false,
-            "size": 2852,
-            "modifiedTime": 1584576654509,
-            "changeTime": 1584576674737,
-            "contentHash": "b8eab6f485acac827724d2834a1522c70e971c76",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584579949729,
-            "changeTime": 1584579949729,
-            "contentHash": "9b5201345c9bdec9e43a296de7857214bf0672ff",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 5376,
-            "modifiedTime": 1584576654510,
-            "changeTime": 1584576673743,
-            "contentHash": "378c9f2b3082483067d704f17d3100261840578d",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584634268374,
-            "changeTime": 1584634268374,
-            "contentHash": "23d17174f92b0250b74e488bc4e28c6a8c720caa",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Panel__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Panel__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 556,
-            "modifiedTime": 1584105171022,
-            "changeTime": 1584105185321,
-            "contentHash": "d60ccd54e4f19bba22f369bca3cf194fbe29b5cd",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654511,
-            "changeTime": 1584576666517,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
-            "isDirectory": false,
-            "size": 210,
-            "modifiedTime": 1584576654511,
-            "changeTime": 1584576674836,
-            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654515,
-            "changeTime": 1584576666460,
-            "contentHash": "8d6f2313e28e8d093d10576e4c22c7261e15b49f",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654514,
-            "changeTime": 1584576666521,
-            "contentHash": "85bd0800f0d657ed0325ae3ffe6b883626c6eddc",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 435,
-            "modifiedTime": 1584576654513,
-            "changeTime": 1584576676992,
-            "contentHash": "5ff8d57740d046f2201c32d6341a79b5f979223a",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 656,
-            "modifiedTime": 1584576654514,
-            "changeTime": 1584576674924,
-            "contentHash": "a869bb846cf497955e1de6517a1a1212ca014217",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technlogy__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technlogy__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 668,
-            "modifiedTime": 1584105171026,
-            "changeTime": 1584105185409,
-            "contentHash": "fd65793044d4d4d4d92f7f0d02a1b9f550dce2d8",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654516,
-            "changeTime": 1584576666525,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
-            "isDirectory": false,
-            "size": 210,
-            "modifiedTime": 1584576654516,
-            "changeTime": 1584576675023,
-            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 5459,
-            "modifiedTime": 1584576654512,
-            "changeTime": 1584576673767,
-            "contentHash": "a0a72862fef5cc4497a71dfea5aaefdf18f95673",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654527,
-            "changeTime": 1584576666463,
-            "contentHash": "c24181d81f9cb61babadedce9ba2ae2f882ac2cc",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654526,
-            "changeTime": 1584576666529,
-            "contentHash": "9eeae4f8cc25da957b5c714dcaf25ee5e1a7d360",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 553,
-            "modifiedTime": 1584576654518,
-            "changeTime": 1584576676193,
-            "contentHash": "70f2dbe62ea0a875bb945f05f57f543d09e2c680",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 395,
-            "modifiedTime": 1584576654518,
-            "changeTime": 1584576676217,
-            "contentHash": "61c748babbfa624f0ad67968ba02a9041f84eb62",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 561,
-            "modifiedTime": 1584576654519,
-            "changeTime": 1584576675894,
-            "contentHash": "44f82e989cb2cb19a57575b3bceaca786f698f67",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 1270,
-            "modifiedTime": 1584576654520,
-            "changeTime": 1584576675867,
-            "contentHash": "fb68ad948969ae9aa8e7a3ce9406f144afc2e99c",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 371,
-            "modifiedTime": 1584576654521,
-            "changeTime": 1584576675829,
-            "contentHash": "6e4299bc24e254fb8354973fc5f5850bf68fa426",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 484,
-            "modifiedTime": 1584576654522,
-            "changeTime": 1584576675668,
-            "contentHash": "4f2a21bb42aec799a459ad53b440816af1527de9",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 1399,
-            "modifiedTime": 1584576654523,
-            "changeTime": 1584576675596,
-            "contentHash": "f114194cb5f831ef6c18041b899070b2fa36ed9d",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 371,
-            "modifiedTime": 1584576654522,
-            "changeTime": 1584576675489,
-            "contentHash": "f033e4f71c5cf79de9424137ec54cb0ebb1940ec",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 379,
-            "modifiedTime": 1584576654524,
-            "changeTime": 1584576675370,
-            "contentHash": "ce6e4a7c776e0f8c5daf6bcd8bc8c35a1653a76f",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 497,
-            "modifiedTime": 1584576654525,
-            "changeTime": 1584576675283,
-            "contentHash": "51172232bd729c82c1bd3cbd952b16e6091ab9b7",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 448,
-            "modifiedTime": 1584576654524,
-            "changeTime": 1584576675593,
-            "contentHash": "10262da01f1a8d3da17097ce5537aebd297ef8ce",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 370,
-            "modifiedTime": 1584576654526,
-            "changeTime": 1584576675150,
-            "contentHash": "0a60807eee6b425162b8f51d2aa86f20a7b13efb",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 1298,
-            "modifiedTime": 1584576654526,
-            "changeTime": 1584576675061,
-            "contentHash": "d3e5a7cff3da183380c420344de5230b39420728",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654527,
-            "changeTime": 1584576666535,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
-            "isDirectory": false,
-            "size": 210,
-            "modifiedTime": 1584576654527,
-            "changeTime": 1584576676432,
-            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 5361,
-            "modifiedTime": 1584576654517,
-            "changeTime": 1584576673733,
-            "contentHash": "fe4fc7c80d55de3462ff1e5bf2136e1f2dbdd7c8",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105171059,
-            "changeTime": 1584105181567,
-            "contentHash": "b39e7ba747e7d6c9665f0993ca8b690b52f644fe",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\fields",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\fields",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105171057,
-            "changeTime": 1584105181610,
-            "contentHash": "fdef53cfc5b02bcbcba35f2c1c0934cd4cde3735",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\fields\\Curriculum__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\fields\\Curriculum__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 669,
-            "modifiedTime": 1584105171057,
-            "changeTime": 1584105186487,
-            "contentHash": "5c2dff102b020d46e578b8d8df9caa96b400b9c7",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 471,
-            "modifiedTime": 1584105171058,
-            "changeTime": 1584105186509,
-            "contentHash": "16db2b141f1304d167c96116f735b27e485f7f78",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\listViews",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\listViews",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105171059,
-            "changeTime": 1584105181613,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\listViews\\All.listView-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\listViews\\All.listView-meta.xml",
-            "isDirectory": false,
-            "size": 210,
-            "modifiedTime": 1584105171059,
-            "changeTime": 1584105186513,
-            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\Technlogy__c.object-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technlogy__c\\Technlogy__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 5395,
-            "modifiedTime": 1584105171046,
-            "changeTime": 1584105184687,
-            "contentHash": "938eec5d28e2ee37b269d3a0e66173a22f439609",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654498,
-            "changeTime": 1584576666472,
-            "contentHash": "252ac0f9d12adba59369338d3f325d85e3d919eb",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654497,
-            "changeTime": 1584576666477,
-            "contentHash": "32b71f68a91c51c8d74496b8bc4d9c8985c4c74f",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
-            "isDirectory": false,
-            "size": 797,
-            "modifiedTime": 1584576654493,
-            "changeTime": 1584576674266,
-            "contentHash": "77dc8cfa67df669693144125b2484bbef6511176",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
-            "isDirectory": false,
-            "size": 211,
-            "modifiedTime": 1584576654494,
-            "changeTime": 1584576674110,
-            "contentHash": "f0e2c5d9d5f22fdc823ddf7e913e3a6e08b005f8",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
-            "isDirectory": false,
-            "size": 1152,
-            "modifiedTime": 1584576654496,
-            "changeTime": 1584576674105,
-            "contentHash": "50b4546f0e36b15d5c758169c6ea71fdb5ac4d40",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
-            "isDirectory": false,
-            "size": 223,
-            "modifiedTime": 1584576654497,
-            "changeTime": 1584576674049,
-            "contentHash": "1c3febf8c374351b932ad50261d17b043006fc2d",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
-            "isDirectory": false,
-            "size": 991,
-            "modifiedTime": 1584576654498,
-            "changeTime": 1584576673916,
-            "contentHash": "5939c76d228f3cc94ef5a5165624c4cb8a84dfa3",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654532,
-            "changeTime": 1584576666340,
-            "contentHash": "5554b5e94c58f3677d23b9bbfd340e571436c255",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
-            "isDirectory": false,
-            "size": 4874,
-            "modifiedTime": 1584576654532,
-            "changeTime": 1584576672973,
-            "contentHash": "92381655ea19ead362369aa7cdcb2b2bf97e590c",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105171061,
-            "changeTime": 1584105181516,
-            "contentHash": "9dd159fc557fd7fe40f2cfe17d10fb92e646be08",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies\\Quality_Control_User_profilePasswordPolicy1584049813676.profilePasswordPolicy-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies\\Quality_Control_User_profilePasswordPolicy1584049813676.profilePasswordPolicy-meta.xml",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1584105171061,
-            "changeTime": 1584105183478,
-            "contentHash": "90948abf901c7cb8e509616cd281eec9d3f372c4",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105171066,
-            "changeTime": 1584105181518,
-            "contentHash": "936f63e1d5a4d4ee2c8ae60a25411c1ea560fa1b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 26057,
-            "modifiedTime": 1584642387671,
-            "changeTime": 1584642387671,
-            "contentHash": "37da95b6710bfa4089aeef84fcbb50c82c271c39"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 9806,
-            "modifiedTime": 1584105171064,
-            "changeTime": 1584105183689,
-            "contentHash": "9b4431317a4814b96a5b449e1e93cd9e36973342",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 9802,
-            "modifiedTime": 1584105171065,
-            "changeTime": 1584105183659,
-            "contentHash": "47754192c0c3909bddefade1af39f4fc2db714b8",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 10154,
-            "modifiedTime": 1584105171065,
-            "changeTime": 1584105183583,
-            "contentHash": "7b7e0c6fc2a736215dbcd669bf369408605a2665",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Quality Control User.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Quality Control User.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 12053,
-            "modifiedTime": 1584642387695,
-            "changeTime": 1584642387695,
-            "contentHash": "ca9d76725ffad38afe88799d3715a033ce0adacf"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profileSessionSettings",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profileSessionSettings",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105171062,
-            "changeTime": 1584105181522,
-            "contentHash": "254c6e5557c40bef010b05e16f426bc9f16d92bb",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profileSessionSettings\\Quality_Control_User_profileSessionSetting1584049813796.profileSessionSetting-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profileSessionSettings\\Quality_Control_User_profileSessionSetting1584049813796.profileSessionSetting-meta.xml",
-            "isDirectory": false,
-            "size": 456,
-            "modifiedTime": 1584105171062,
-            "changeTime": 1584105183723,
-            "contentHash": "fc135db41ea1488d096a03ed164b658e030fb190",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654533,
-            "changeTime": 1584576666343,
-            "contentHash": "ef52a1fe946842084049bc01cdb603d78f050522",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
-            "isDirectory": false,
-            "size": 5706,
-            "modifiedTime": 1584576654533,
-            "changeTime": 1584576672969,
-            "contentHash": "9e31683c70a547057cfd886231b8c32aa453a676",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584577994803,
-            "changeTime": 1584577994803,
-            "contentHash": "9e2d023cfbda30f1a04df2b81859023632231360",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
-            "isDirectory": false,
-            "size": 438,
-            "modifiedTime": 1584576654534,
-            "changeTime": 1584576673101,
-            "contentHash": "784ec4f9ad1c800a713864250831058e42192cc0",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654536,
-            "changeTime": 1584576666349,
-            "contentHash": "10518a7efa13079ab181395be93ac2fb15200dfc",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654539,
-            "changeTime": 1584576666353,
-            "contentHash": "ecede2482dec6e66e7a3035122133c0b90bf492b",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
-            "isDirectory": false,
-            "size": 187,
-            "modifiedTime": 1584576654537,
-            "changeTime": 1584576673543,
-            "contentHash": "ecf1f1d7c8a9a105e16a021d305ed4455dcd5abc",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
-            "isDirectory": false,
-            "size": 191,
-            "modifiedTime": 1584576654537,
-            "changeTime": 1584576673429,
-            "contentHash": "524534febffe3b7ca2afa80437c5430ff1a93eed",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
-            "isDirectory": false,
-            "size": 188,
-            "modifiedTime": 1584576654538,
-            "changeTime": 1584576673406,
-            "contentHash": "5a5bc34f4fc3e1cf717ee9d64d64283623c05a1b",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Technlogy__c.tab-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Technlogy__c.tab-meta.xml",
-            "isDirectory": false,
-            "size": 189,
-            "modifiedTime": 1584105171072,
-            "changeTime": 1584105183931,
-            "contentHash": "8fd7cc0b195f639df5f003b30a5e895dd8fdef3e",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584105923823,
-            "changeTime": 1584105923823,
-            "contentHash": "c6e0d8e1a03748fce889e2159142f4814eb60090",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
-            "isDirectory": false,
-            "size": 260,
-            "modifiedTime": 1584576654536,
-            "changeTime": 1584576673133,
-            "contentHash": "c15fc6c7d56168514cb82eff7b8fc9d6130b22b8",
-            "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
-            "isDirectory": false,
-            "size": 0,
-            "modifiedTime": 1584576654535,
-            "changeTime": 1584576686657,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "n",
+            "size": 5494,
+            "modifiedTime": 1584647268619,
+            "changeTime": 1584647274537,
+            "contentHash": "92d465f0b0bc3539f06b5586ca31a0c1364e55c5",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1580,14 +332,284 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Technology__c-Technology Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Technology__c-Technology Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3250,
             "modifiedTime": 1584576654467,
-            "changeTime": 1584576672164,
+            "changeTime": 1584650473002,
             "contentHash": "1679e35f6a7188acca9917e8100ffa6b04f59e01",
-            "isMetadataFile": true,
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects",
+        {
             "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654527,
+            "changeTime": 1584576666363,
+            "contentHash": "8b3b2f48ad2eaac2bbc3723d3e7bfd3fdd91d422",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654506,
+            "changeTime": 1584576666485,
+            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654506,
+            "changeTime": 1584576666490,
+            "contentHash": "e23fc9090bfbd4e584f8e516e8c1126de725f09d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1202,
+            "modifiedTime": 1584576654503,
+            "changeTime": 1584650473020,
+            "contentHash": "b3f3cb41b6d73cfc2a0ccd5154f9c2cf025ccffc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 339,
+            "modifiedTime": 1584576654504,
+            "changeTime": 1584650473027,
+            "contentHash": "9f04c77c3325b4b117c7c7c3bffd6f72ad4603a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 339,
+            "modifiedTime": 1584576654505,
+            "changeTime": 1584650473034,
+            "contentHash": "b6baf25524fd5d5631ccf287639605782f5fdb70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1425,
+            "modifiedTime": 1584576654506,
+            "changeTime": 1584650473042,
+            "contentHash": "c26dbe3fe0eb7a6f103cb7392a13bdd357f7eb8b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654509,
+            "changeTime": 1584576666494,
+            "contentHash": "f5c19a39af592dabdca40d8b6d7181299009b5a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2851,
+            "modifiedTime": 1584576654508,
+            "changeTime": 1584650473052,
+            "contentHash": "ca5d3b1b97807b96a91a21bab997ce95e279ed56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2852,
+            "modifiedTime": 1584576654509,
+            "changeTime": 1584650473061,
+            "contentHash": "b8eab6f485acac827724d2834a1522c70e971c76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584647268610,
+            "changeTime": 1584647268610,
+            "contentHash": "eddec5a2cd98e9b96060d0f2d729e454f61fcf62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5376,
+            "modifiedTime": 1584576654510,
+            "changeTime": 1584650473069,
+            "contentHash": "378c9f2b3082483067d704f17d3100261840578d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654511,
+            "changeTime": 1584576666517,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1584576654511,
+            "changeTime": 1584650473078,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654515,
+            "changeTime": 1584576666460,
+            "contentHash": "8d6f2313e28e8d093d10576e4c22c7261e15b49f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654514,
+            "changeTime": 1584576666521,
+            "contentHash": "85bd0800f0d657ed0325ae3ffe6b883626c6eddc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1584576654513,
+            "changeTime": 1584650473095,
+            "contentHash": "5ff8d57740d046f2201c32d6341a79b5f979223a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 656,
+            "modifiedTime": 1584576654514,
+            "changeTime": 1584650473101,
+            "contentHash": "a869bb846cf497955e1de6517a1a1212ca014217",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1595,14 +617,374 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technology__c.field-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technology__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 671,
             "modifiedTime": 1584576654515,
-            "changeTime": 1584576674812,
+            "changeTime": 1584650473109,
             "contentHash": "d1c9f842acc8da28c35013a8f6a445064c9a1622",
-            "isMetadataFile": true,
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
+        {
             "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654516,
+            "changeTime": 1584576666525,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1584576654516,
+            "changeTime": 1584650473117,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5459,
+            "modifiedTime": 1584576654512,
+            "changeTime": 1584650473086,
+            "contentHash": "a0a72862fef5cc4497a71dfea5aaefdf18f95673",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654527,
+            "changeTime": 1584576666463,
+            "contentHash": "c24181d81f9cb61babadedce9ba2ae2f882ac2cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584647268624,
+            "changeTime": 1584647268624,
+            "contentHash": "c931bbe03bb074b41de2783aa648a966535b48fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 553,
+            "modifiedTime": 1584576654518,
+            "changeTime": 1584650473130,
+            "contentHash": "70f2dbe62ea0a875bb945f05f57f543d09e2c680",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1584576654518,
+            "changeTime": 1584650473137,
+            "contentHash": "61c748babbfa624f0ad67968ba02a9041f84eb62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 561,
+            "modifiedTime": 1584576654519,
+            "changeTime": 1584650473143,
+            "contentHash": "44f82e989cb2cb19a57575b3bceaca786f698f67",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1270,
+            "modifiedTime": 1584576654520,
+            "changeTime": 1584650473149,
+            "contentHash": "fb68ad948969ae9aa8e7a3ce9406f144afc2e99c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1584576654521,
+            "changeTime": 1584650473159,
+            "contentHash": "6e4299bc24e254fb8354973fc5f5850bf68fa426",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 484,
+            "modifiedTime": 1584576654522,
+            "changeTime": 1584650473166,
+            "contentHash": "4f2a21bb42aec799a459ad53b440816af1527de9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1399,
+            "modifiedTime": 1584576654523,
+            "changeTime": 1584650473174,
+            "contentHash": "f114194cb5f831ef6c18041b899070b2fa36ed9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1584576654522,
+            "changeTime": 1584650473181,
+            "contentHash": "f033e4f71c5cf79de9424137ec54cb0ebb1940ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1584576654524,
+            "changeTime": 1584650473189,
+            "contentHash": "ce6e4a7c776e0f8c5daf6bcd8bc8c35a1653a76f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 497,
+            "modifiedTime": 1584576654525,
+            "changeTime": 1584650473196,
+            "contentHash": "51172232bd729c82c1bd3cbd952b16e6091ab9b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 448,
+            "modifiedTime": 1584576654524,
+            "changeTime": 1584650473203,
+            "contentHash": "10262da01f1a8d3da17097ce5537aebd297ef8ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Company__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Company__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 518,
+            "modifiedTime": 1584647268621,
+            "changeTime": 1584647273805,
+            "contentHash": "36728066fae6ec4500617e7161e74de2b1efaee4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1584647268623,
+            "changeTime": 1584647273771,
+            "contentHash": "9d1462d12424279d5d03b42d05c98392fb324bf0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Job_ID__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Job_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 513,
+            "modifiedTime": 1584647268625,
+            "changeTime": 1584647273717,
+            "contentHash": "c7708d4e8d4a32ef24e7e40017445d1410af6993",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1584576654526,
+            "changeTime": 1584650473235,
+            "contentHash": "0a60807eee6b425162b8f51d2aa86f20a7b13efb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1298,
+            "modifiedTime": 1584576654526,
+            "changeTime": 1584650473242,
+            "contentHash": "d3e5a7cff3da183380c420344de5230b39420728",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654527,
+            "changeTime": 1584576666535,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1584576654527,
+            "changeTime": 1584650473256,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5361,
+            "modifiedTime": 1584576654517,
+            "changeTime": 1584650473121,
+            "contentHash": "fe4fc7c80d55de3462ff1e5bf2136e1f2dbdd7c8",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1610,14 +992,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584576654531,
-            "changeTime": 1584576666467,
-            "contentHash": "e8f767d949db9cd0a1f44f60a0fe7463d6fb22b5",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 0,
+            "modifiedTime": 1584646543969,
+            "changeTime": 1584646543969,
+            "contentHash": "e8f767d949db9cd0a1f44f60a0fe7463d6fb22b5",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1625,14 +1007,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654530,
             "changeTime": 1584576666540,
             "contentHash": "fdef53cfc5b02bcbcba35f2c1c0934cd4cde3735",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1640,14 +1022,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Curriculum__c.field-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Curriculum__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 612,
             "modifiedTime": 1584576654530,
-            "changeTime": 1584576676490,
+            "changeTime": 1584650473263,
             "contentHash": "04ea1b2d5fdbe474894aa6cbe00fd3b96f8077d9",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1655,14 +1037,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 471,
             "modifiedTime": 1584576654530,
-            "changeTime": 1584576676460,
+            "changeTime": 1584650473270,
             "contentHash": "16db2b141f1304d167c96116f735b27e485f7f78",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1670,14 +1052,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654531,
             "changeTime": 1584576666545,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1685,14 +1067,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews\\All.listView-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1584576654531,
-            "changeTime": 1584576677095,
+            "changeTime": 1584650473278,
             "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1700,27 +1082,134 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\Technology__c.object-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\Technology__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5230,
-            "modifiedTime": 1584642387493,
-            "changeTime": 1584642387493,
-            "contentHash": "5ab75ec0fdf4eac83206cfa543df1ec40d2aba88"
+            "size": 5397,
+            "modifiedTime": 1584646543969,
+            "changeTime": 1584650473259,
+            "contentHash": "1ee0f6a814b130271d5e62120d27dcfd863581cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654498,
+            "changeTime": 1584576666472,
+            "contentHash": "252ac0f9d12adba59369338d3f325d85e3d919eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654497,
+            "changeTime": 1584576666477,
+            "contentHash": "32b71f68a91c51c8d74496b8bc4d9c8985c4c74f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 797,
+            "modifiedTime": 1584576654493,
+            "changeTime": 1584650473281,
+            "contentHash": "77dc8cfa67df669693144125b2484bbef6511176",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1584576654494,
+            "changeTime": 1584650473288,
+            "contentHash": "f0e2c5d9d5f22fdc823ddf7e913e3a6e08b005f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1152,
+            "modifiedTime": 1584576654496,
+            "changeTime": 1584650473294,
+            "contentHash": "50b4546f0e36b15d5c758169c6ea71fdb5ac4d40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1584576654497,
+            "changeTime": 1584650473301,
+            "contentHash": "1c3febf8c374351b932ad50261d17b043006fc2d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 991,
+            "modifiedTime": 1584576654498,
+            "changeTime": 1584650473310,
+            "contentHash": "5939c76d228f3cc94ef5a5165624c4cb8a84dfa3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1584576654501,
             "changeTime": 1584576666481,
             "contentHash": "f888aacc1906e3af0d1b47ccbe33366fb1a141a2",
-            "isMetadataFile": false,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1728,14 +1217,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Curriculum__c.fieldTranslation-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Curriculum__c.fieldTranslation-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 279,
             "modifiedTime": 1584576654499,
-            "changeTime": 1584576674354,
+            "changeTime": 1584650473319,
             "contentHash": "5c30f0233aa0e622ee264037cadb85b2377c3c17",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1743,14 +1232,14 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Technology__c-en_US.objectTranslation-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Technology__c-en_US.objectTranslation-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 392,
             "modifiedTime": 1584576654500,
-            "changeTime": 1584576674327,
+            "changeTime": 1584650473325,
             "contentHash": "00cb31293d4fa61fc82fcedfacdac0aa40f51879",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1758,14 +1247,239 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 239,
             "modifiedTime": 1584576654501,
-            "changeTime": 1584576674295,
+            "changeTime": 1584650473332,
             "contentHash": "68a0782c30b417b970f6f7fb095b56ef48e2391d",
-            "isMetadataFile": true,
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets",
+        {
             "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654532,
+            "changeTime": 1584576666340,
+            "contentHash": "5554b5e94c58f3677d23b9bbfd340e571436c255",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4874,
+            "modifiedTime": 1584576654532,
+            "changeTime": 1584650473341,
+            "contentHash": "92381655ea19ead362369aa7cdcb2b2bf97e590c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584647268627,
+            "changeTime": 1584647268627,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 26992,
+            "modifiedTime": 1584647268627,
+            "changeTime": 1584647274730,
+            "contentHash": "c4daf4dede801e9e7defb1fa8d63e813b12e491b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654533,
+            "changeTime": 1584576666343,
+            "contentHash": "ef52a1fe946842084049bc01cdb603d78f050522",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5706,
+            "modifiedTime": 1584576654533,
+            "changeTime": 1584650473358,
+            "contentHash": "9e31683c70a547057cfd886231b8c32aa453a676",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584634268454,
+            "changeTime": 1584634268454,
+            "contentHash": "865ed642fe5bdf81de8e837d57222690324daffe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1584576654534,
+            "changeTime": 1584650473367,
+            "contentHash": "784ec4f9ad1c800a713864250831058e42192cc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654536,
+            "changeTime": 1584576666349,
+            "contentHash": "10518a7efa13079ab181395be93ac2fb15200dfc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654535,
+            "changeTime": 1584650473373,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1584576654536,
+            "changeTime": 1584650473377,
+            "contentHash": "c15fc6c7d56168514cb82eff7b8fc9d6130b22b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584576654539,
+            "changeTime": 1584576666353,
+            "contentHash": "ecede2482dec6e66e7a3035122133c0b90bf492b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 187,
+            "modifiedTime": 1584576654537,
+            "changeTime": 1584650473385,
+            "contentHash": "ecf1f1d7c8a9a105e16a021d305ed4455dcd5abc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1584576654537,
+            "changeTime": 1584650473392,
+            "contentHash": "524534febffe3b7ca2afa80437c5430ff1a93eed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1584576654538,
+            "changeTime": 1584650473400,
+            "contentHash": "5a5bc34f4fc3e1cf717ee9d64d64283623c05a1b",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1773,68 +1487,31 @@
     [
         "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Technology__c.tab-meta.xml",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\tabs\\Technology__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 189,
             "modifiedTime": 1584576654540,
-            "changeTime": 1584576673279,
+            "changeTime": 1584650473407,
             "contentHash": "8fd7cc0b195f639df5f003b30a5e895dd8fdef3e",
-            "isMetadataFile": true,
-            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules",
+        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce",
         {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules",
+            "state": "n",
+            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1584634268383,
-            "changeTime": 1584634268383,
-            "contentHash": "15aa171665b5ca420ad83620e9e294a93813cffe",
             "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Total_Weights__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Total_Weights__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 618,
-            "modifiedTime": 1584642387537,
-            "changeTime": 1584642387537,
-            "contentHash": "a3d6ac553ed90fb856c648d47ccbbf3e2f44a42d"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules\\Validate_Weights.validationRule-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules\\Validate_Weights.validationRule-meta.xml",
-            "isDirectory": false,
-            "size": 575,
-            "modifiedTime": 1584634268383,
-            "changeTime": 1584634268383,
-            "contentHash": "7db5bb198162955c59795db4ee61deed682a0bbd",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Technology__c-Technlogy Layout.layout-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jwhec\\OneDrive\\Documents\\Revature Training\\Project 3 Resources\\Repository\\PanelForce_TST\\Panelforce\\force-app\\main\\default\\layouts\\Technology__c-Technlogy Layout.layout-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 2927,
-            "modifiedTime": 1584642387554,
-            "changeTime": 1584642387554,
-            "contentHash": "64c4acca26fe62e50469ea9e37fc4cd8bcf3722e"
+            "size": 0,
+            "modifiedTime": 1584576654544,
+            "changeTime": 1584576666202,
+            "contentHash": "cf7c3d554a83cdf5a4b2e318ae2233f6fb0b8f7d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ]
 ]

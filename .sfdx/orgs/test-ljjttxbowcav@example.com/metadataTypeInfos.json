@@ -4127,6 +4127,28 @@
             },
             "hasVirtualSubtypes": false
         },
+        "FunctionBundle": {
+            "metadataName": "FunctionBundle",
+            "isAddressable": true,
+            "isSourceTracked": true,
+            "hasContent": true,
+            "defaultDirectory": "functionBundles",
+            "nameForMsgs": "Function Bundle",
+            "nameForMsgsPlural": "Function Bundles",
+            "contentIsBinary": false,
+            "hasStandardMembers": false,
+            "deleteSupported": true,
+            "decompositionConfig": {
+                "strategy": "nonDecomposed",
+                "workspaceStrategy": "nonDecomposed",
+                "commitStrategy": "fineGrainTracking",
+                "metadataName": "FunctionBundle",
+                "useSparseComposition": false,
+                "decompositions": [],
+                "contentStrategy": "nonDecomposedContent"
+            },
+            "hasVirtualSubtypes": false
+        },
         "CommandAction": {
             "metadataName": "CommandAction",
             "isAddressable": true,

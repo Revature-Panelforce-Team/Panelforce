@@ -4,6 +4,15 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
     <label>Curriculum</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>Curriculum__c.Active__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
     <referenceTo>Curriculum__c</referenceTo>
     <relationshipLabel>Panels</relationshipLabel>
     <relationshipName>Panels</relationshipName>

@@ -155,7 +155,7 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Technology</label>
     <nameField>
-        <label>Technology Name</label>
+        <label>Technlogy Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
