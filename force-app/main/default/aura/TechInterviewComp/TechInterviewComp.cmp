@@ -4,7 +4,7 @@
     <aura:attribute name = "techGrade" type = "String" />
     <aura:attribute name = "techGradeList" type = "List"/>
     <aura:attribute name = "techCommentList" type = "List"/>
-    <aura:attribute name = "techPanelRepanel" type = "List"/>
+    <aura:attribute name = "techRepanelList" type = "List"/>
 
     <aura:attribute name = "curriculumId" type = "String" />
     

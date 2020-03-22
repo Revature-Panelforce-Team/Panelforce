@@ -8,8 +8,16 @@
             curriculumId : currId,
         });
         action.setCallback(this, function(response){
-            component.set("{!v.panelTechs}",response.getReturnValue());
-            console.log(component.get("v.panelTechs"));
+            var techArray = response.getReturnValue();
+            var masterArray = new Array(techArray.length);
+            for(var i = 0; i<techArray.length; i++){
+                masterArray[i] = ("");
+            }
+            console.log(masterArray);
+            component.set("v.panelTechs", techArray);
+            component.set("v.techGradeList", masterArray);
+            component.set("v.techCommentList", masterArray);
+            component.set("v.techRepanelList", masterArray);
         })
         $A.enqueueAction(action);
     },
@@ -31,9 +39,9 @@
         console.log(component.get("v.techCommentList"));
     },
         updateRepanelList : function(component,event,helper){
-        var commentList = component.get("v.techPanelRepanel"); //Get the checkbox array from component
+        var commentList = component.get("v.techRepanelList"); //Get the checkbox array from component
         commentList[event.getSource().get('v.name')] = event.getSource().get('v.checked'); //Update the values in the array based on index and checked
-        console.log(component.get("v.techPanelRepanel"));
+        console.log(component.get("v.techRepanelList"));
     },
     
     handleSubmit : function(component, event, helper){
@@ -44,7 +52,7 @@
             gradeList : component.get("v.techGradeList"),
             panelId : component.get("v.panelId"),
             commentList : component.get("v.techCommentList"),
-            repanelList : component.get("v.techPanelRepanel")
+            repanelList : component.get("v.techRepanelList")
         })
         
         $A.enqueueAction(action);
