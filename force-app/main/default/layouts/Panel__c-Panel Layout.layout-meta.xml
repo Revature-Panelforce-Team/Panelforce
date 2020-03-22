@@ -62,6 +62,10 @@
                 <behavior>Edit</behavior>
                 <field>Training_track__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Interview_Ready__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

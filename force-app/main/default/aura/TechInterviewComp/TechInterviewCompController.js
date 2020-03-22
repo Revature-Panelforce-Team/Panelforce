@@ -24,6 +24,17 @@
         gradeList[event.getSource().get('v.name')] = event.getSource().get('v.value'); //Update the values in the array based on index and value
         console.log(component.get("v.techGradeList"));
     },
+   
+    updateCommentList : function(component,event,helper){
+        var commentList = component.get("v.techCommentList"); //Get the comment array from component
+        commentList[event.getSource().get('v.name')] = event.getSource().get('v.value'); //Update the values in the array based on index and value
+        console.log(component.get("v.techCommentList"));
+    },
+        updateRepanelList : function(component,event,helper){
+        var commentList = component.get("v.techPanelRepanel"); //Get the checkbox array from component
+        commentList[event.getSource().get('v.name')] = event.getSource().get('v.checked'); //Update the values in the array based on index and checked
+        console.log(component.get("v.techPanelRepanel"));
+    },
     
     handleSubmit : function(component, event, helper){
         
@@ -31,10 +42,12 @@
         action.setParams({
             panelTech : component.get("v.panelTechs"),
             gradeList : component.get("v.techGradeList"),
-            panelId : component.get("v.panelId")
+            panelId : component.get("v.panelId"),
+            commentList : component.get("v.techCommentList"),
+            repanelList : component.get("v.techPanelRepanel")
         })
         
         $A.enqueueAction(action);
     }
-        
-    })
+    
+})

@@ -3,6 +3,9 @@
     <aura:attribute name = "panelId" type = "String"/>
     <aura:attribute name = "techGrade" type = "String" />
     <aura:attribute name = "techGradeList" type = "List"/>
+    <aura:attribute name = "techCommentList" type = "List"/>
+    <aura:attribute name = "techPanelRepanel" type = "List"/>
+
     <aura:attribute name = "curriculumId" type = "String" />
     
     <!--Handle Curriculum ID Pass Event-->
@@ -53,10 +56,16 @@
                                                                       onchange ="{!c.updateGradeList}"/></div>
       </td>
       <td data-label="Repanel">
-        <div class="slds-truncate" title="Repanel">______</div>
+        <div class="slds-truncate" title="Repanel"><lightning:input type = "checkbox" 
+                                                                    name = "{!i}" 
+                                                                    onchange ="{!c.updateRepanelList}"
+                                                                    checked = ""/></div>
       </td>
       <td data-label="Comments">
-        <div class="slds-truncate" title="Comments"><ui:inputtext /></div>
+        <div class="slds-truncate" title="Comments"><lightning:input type = "text" 
+                                                                      name = "{!i}" 
+                                                                      value ="" 
+                                                                      onchange ="{!c.updateCommentList}"/></div>
       
          </td>
     </tr>
@@ -76,14 +85,9 @@
       <td data-label="Repanel">
         <div class="slds-truncate" title="Repanel">______</div>
       </td>
-    
     </tr>
          </tbody>
-    </table><br/><br/>
-    Overall Comments:  <ui:inputtext value="feedback"/><br/>
-    
-    Client Interview Ready? : _______________ 
-    
-    Panel Comments:  <ui:inputnumber value="comments"/>
+    </table>
+    <br/><br/><br/>
      
 </aura:component>

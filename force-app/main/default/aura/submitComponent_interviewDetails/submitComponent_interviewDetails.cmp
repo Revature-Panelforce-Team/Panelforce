@@ -1,7 +1,7 @@
 <aura:component controller = "TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
     <!-- Initializes User Data -->
     <aura:handler name="init" value="{!this}" action="{!c.onInit}" />
-
+    
     <aura:attribute name="currUser" type="String" default=""/>
     <aura:attribute name="currCurriculum" type="String" default="currCurriculum"/>
     <aura:attribute name = "panelId" type = "String" />
@@ -54,7 +54,11 @@
                 </tr>
                 <br/>
                 <tr>
-                    <div onchange="{!c.populateGrades}"><td><div class="slds-m-right_xx-large"><lightning:inputField aura:id="Curriculum" fieldName="Curriculum__c" /></div></td></div>
+                    <td><div class="slds-m-right_xx-large" onchange="{!c.populateGrades}"><lightning:inputField aura:id="Curriculum" fieldName="Curriculum__c" /></div></td>
+                </tr>
+                <tr>
+                    <td><div class="slds-m-right_xx-large"><lightning:inputField fieldName="Interview_Ready__c" /></div></td>
+                    <td><lightning:inputField fieldName="Overall_Feedback__c" /></td>
                 </tr>
                 </table>
             </center>

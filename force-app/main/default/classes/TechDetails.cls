@@ -19,15 +19,19 @@ public with sharing class TechDetails {
     
     //Submit Panel Results
     @auraenabled
-    public static void submitPanel(list<Technology__c> panelTech, list<string> gradeList, string panelId){
-
+    public static void submitPanel(list<Technology__c> panelTech, list<string> gradeList, string panelId, list<string> commentList, list<boolean> repanelList){
+        
+        system.debug(repanelList);
+                                       
         //create the panel_results_list
         list<Panel_Results__c> panelResultsList = new list<Panel_Results__c>();
-        
+                                       
         //Populate the panel results list with inputs from component
         for(integer i=0;i<panelTech.size();i++){
             Panel_Results__c panelTechResult = new Panel_Results__c();
             panelTechResult.Technology__c = panelTech[i].id;
+            panelTechResult.Comment__c = commentList[i];
+            panelTechResult.Repanel__c = repanelList[i];
             panelTechResult.Panel__c = panelId;
             integer gradeInt = integer.valueOf(gradeList[i]);
             panelTechResult.Grade__c = gradeInt;
