@@ -12,14 +12,15 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Panel Force</label>
     <navType>Standard</navType>
+    <tabs>Submit_a_Panel</tabs>
+    <tabs>View_Panels</tabs>
     <tabs>standard-Contact</tabs>
-    <tabs>Panel__c</tabs>
     <tabs>Curriculum__c</tabs>
     <tabs>Technology__c</tabs>
+    <tabs>Panel__c</tabs>
     <tabs>Panel_Results__c</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>Submit_a_Panel</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Panel_Force_UtilityBar</utilityBar>
 </CustomApplication>
