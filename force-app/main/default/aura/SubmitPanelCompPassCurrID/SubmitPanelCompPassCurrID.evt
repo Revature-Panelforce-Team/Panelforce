@@ -1,0 +1,5 @@
+<aura:event type="APPLICATION">
+
+	<aura:attribute name="currCurriculumId" type="String"/>
+    
+</aura:event>

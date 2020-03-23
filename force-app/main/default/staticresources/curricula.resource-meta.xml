@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Private</cacheControl>
+    <contentType>text/csv</contentType>
+    <description>a csv list of curricula to be loaded as test data</description>
+</StaticResource>

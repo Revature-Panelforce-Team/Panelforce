@@ -1,0 +1,11 @@
+Id,Associate__c,Consent_to_recording__c,Curriculum__c,Internet_Connection_Quality__c,Interview_Date__c,Interview_Duration_in_minutes__c,Interview_mode__c,Interview_Time__c,Overall_Feedback__c,Name,Panel_Round__c,Recording_Link__c,Training_track__c
+a023h000001ulTUAAY,0033h000003r9XMAAY,true,a003h000001jDuwAAE,Stable,2020-03-17,35,Google live,00:00:00.000Z,Well done!,Business Analysis - Evaleen Walker,2,https://www.youtube.com,Business analyst
+a023h000001ulTZAAY,0033h000003r9XQAAY,false,a003h000001jDubAAE,Excellent,2020-03-23,50,Skype,04:45:00.000Z,Average performance.,Salesforce - Fiona Lewis,3,,Salesforce
+a023h000001ulTjAAI,0033h000003r9XgAAI,true,a003h000001jDuvAAE,Stable,2020-03-03,47,Skype,01:00:00.000Z,Her experience in the field showed! Well done!,Java Full Stack - Gloria Roberts,1,https://www.youtube.com,Java full stack
+a023h000001ulTtAAI,0033h000003r9YOAAY,false,a003h000001jDubAAE,No connection,2020-03-10,30,In person,00:30:00.000Z,Needs more work.,Salesforce - Hannah Bailey,2,,Salesforce
+a023h000001ulTkAAI,0033h000003r9XLAAY,true,a003h000001jDuvAAE,Stable,2020-03-11,50,Skype,02:30:00.000Z,Not bad.,Java Full Stack - Jonathon Davis,1,https://www.youtube.com,Java full stack
+a023h000001ulTyAAI,0033h000003r9YPAAY,true,a003h000001jDuwAAE,Stable,2020-03-02,90,In person,01:00:00.000Z,Very articulate!,Business Analysis - Timothy Hughes,1,https://www.youtube.com,Business analyst
+a023h000001ulToAAI,0033h000003r9Y9AAI,false,a003h000001jDuvAAE,Stable,2020-02-26,50,Google live,03:30:00.000Z,Fantastic!,Java Full Stack - Greg Evans,1,,Java full stack
+a023h000001ulTKAAY,0033h000003r9WXAAY,true,a003h000001jDuvAAE,No connection,2020-03-24,40,In person,03:45:00.000Z,Not too bad.,Java Full Stack - Aaron Williams,1,https://www.youtube.com,Java full stack
+a023h000001ulTPAAY,0033h000003r9WYAAY,false,a003h000001jDubAAE,Unstable,2020-03-30,63,Phone,01:30:00.000Z,Could have done better.,Salesforce - Duncan Martinez,1,,Salesforce
+a023h000001ulTeAAI,0033h000003r9XfAAI,false,a003h000001jDuwAAE,Unstable,2020-03-11,60,Other,00:45:00.000Z,Absolutely Horrible.,Business Analysis - Fred Turner,10,,Business analyst

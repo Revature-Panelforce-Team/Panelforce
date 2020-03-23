@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Total_Weights__c</fullName>
+    <description>P3 - Field Creation for Validation Rule</description>
+    <externalId>false</externalId>
+    <label>Total Weights</label>
+    <summarizedField>Technology__c.Weight_in_Panel_Results__c</summarizedField>
+    <summaryForeignKey>Technology__c.Curriculum__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

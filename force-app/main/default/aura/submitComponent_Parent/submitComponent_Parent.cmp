@@ -1,0 +1,36 @@
+<aura:component controller = "TechDetails" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    
+    <!--Register the application event that submits panel update and panel results records-->
+    <aura:registerEvent name = "submitPanel" type = "c:submitComponent_submitPanelRecord" />
+    
+    <!--Register the application event that creates a new panel record-->
+    <aura:registerEvent name = "passPanelIdEvt" type = "c:submitComponent_passPanelId"/>
+    
+    <!--Create Attributes for methods-->
+    <aura:attribute name = "panelName" type = "String" />
+    <aura:attribute name = "showPanelComponents" type = "Boolean" default = "false"/>
+    
+    <!--Button to create Panel record-->
+    <lightning:layout verticalAlign = "end">
+        <lightning:layoutItem size = "4">
+            <lightning:input label = "Panel Name" value = "{!v.panelName}"/>
+        </lightning:layoutItem>
+        <lightning:layoutItem>
+                    <lightning:button label = "Begin Panel" onclick = "{!c.beginPanel}"/>
+        </lightning:layoutItem>
+    </lightning:layout>
+    <br/><br/>
+    
+    <!--Embed child components and conditionally render them-->
+    <aura:if isTrue = "{!v.showPanelComponents}">
+        <c:submitComponent_interviewDetails/>
+        <c:TechInterviewComp/>
+        
+        <br/><br/><br/><br/><br/>
+        <div class="slds-align_absolute-center"><lightning:button label = "Submit Panel" onclick = "{!c.submitEvent}"/></div>
+        
+    </aura:if>
+    
+    
+    
+</aura:component>

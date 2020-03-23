@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TotalWeight100</fullName>
+    <active>true</active>
+    <description>The active checkbox can only be checked if the total weight of all associated technologies is 100.</description>
+    <errorConditionFormula>AND(NOT( Total_Weights__c = 100),  Active__c = TRUE)</errorConditionFormula>
+    <errorMessage>Total weight of all related technologies must equal 100.</errorMessage>
+</ValidationRule>
