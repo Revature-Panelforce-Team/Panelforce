@@ -1,0 +1,2843 @@
+[
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576255,
+            "changeTime": 1584913576255,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576256,
+            "changeTime": 1584913576256,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587459,
+            "changeTime": 1584913587459,
+            "contentHash": "d252fd860a883b96f9988cee4866e3dc7d725818",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587432,
+            "changeTime": 1584913587432,
+            "contentHash": "6b61122e77e26e1b906876e8b248c698bdafb805",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\applications\\Panel_Force_Team.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 970,
+            "modifiedTime": 1584943643348,
+            "changeTime": 1584943643348,
+            "contentHash": "447986f7dc99d9bfa28bf93d82122a487304f6ad"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\applications\\standard__Service.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\applications\\standard__Service.app-meta.xml",
+            "isDirectory": false,
+            "size": 365,
+            "modifiedTime": 1584913587432,
+            "changeTime": 1584913587432,
+            "contentHash": "a96b0d19c2370eb6e7d190bb961cf02e3692f2a1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\appMenus",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\appMenus",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576256,
+            "changeTime": 1584913576256,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "size": 2200,
+            "modifiedTime": 1584913576256,
+            "changeTime": 1584913576256,
+            "contentHash": "f7c63db803b77df2848b7ad700d79dedf46d921e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587447,
+            "changeTime": 1584913587447,
+            "contentHash": "8b09923d8fb81c88d2ffb90b3b7f548d7bd442c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587436,
+            "changeTime": 1584913587436,
+            "contentHash": "a798a271337c59bbc73c86a67e84d1985d650470",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.auradoc",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1584913587432,
+            "changeTime": 1584913587432,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp",
+            "isDirectory": false,
+            "size": 2304,
+            "modifiedTime": 1584913587433,
+            "changeTime": 1584913587433,
+            "contentHash": "2b6a1395eaec73970545ca0ad8763229524c9bbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1584913587433,
+            "changeTime": 1584913587433,
+            "contentHash": "cab1b604f92d355a159cefc29996d092c987ad9b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.css",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1584913587434,
+            "changeTime": 1584913587434,
+            "contentHash": "579b87c7a919b954ff62f1f28c2b20be3610eace",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.design",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1584913587434,
+            "changeTime": 1584913587434,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.svg",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListView.svg",
+            "isDirectory": false,
+            "size": 670,
+            "modifiedTime": 1584913587434,
+            "changeTime": 1584913587434,
+            "contentHash": "a329e5564b402542011689e5ed40ac3f55c99625",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewController.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewController.js",
+            "isDirectory": false,
+            "size": 734,
+            "modifiedTime": 1584913587435,
+            "changeTime": 1584913587435,
+            "contentHash": "21d0d87045e8afce686fcb6724d5f6a5d22d1109",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewHelper.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewHelper.js",
+            "isDirectory": false,
+            "size": 747,
+            "modifiedTime": 1584913587435,
+            "changeTime": 1584913587435,
+            "contentHash": "bcdce3796c3cdabc237de9221b570098ee1e66ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelListView\\PanelListViewRenderer.js",
+            "isDirectory": false,
+            "size": 53,
+            "modifiedTime": 1584913587436,
+            "changeTime": 1584913587436,
+            "contentHash": "1ce21dc03eaa243aff2d70c2df6092a8069bbd69",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587437,
+            "changeTime": 1584913587437,
+            "contentHash": "c711b7c33bb9289fda8361a7359279d7724c9c52",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp",
+            "isDirectory": false,
+            "size": 2930,
+            "modifiedTime": 1584913587436,
+            "changeTime": 1584913587436,
+            "contentHash": "ed13fd1fc352c2d6b8f5658714d6d7ecedea0d45",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelView.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587437,
+            "changeTime": 1584913587437,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewController.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewController.js",
+            "isDirectory": false,
+            "size": 123,
+            "modifiedTime": 1584913587437,
+            "changeTime": 1584913587437,
+            "contentHash": "f8053d8000faf6ff1abab565f6c2617f408f269e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewHelper.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\PanelView\\PanelViewHelper.js",
+            "isDirectory": false,
+            "size": 993,
+            "modifiedTime": 1584913587437,
+            "changeTime": 1584913587437,
+            "contentHash": "3e8637bf8e2b1ffd953432d31effaf55e1bbbc33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587445,
+            "changeTime": 1584913587445,
+            "contentHash": "cc82bc635f2e03bf16ff1ec5ed8df4e577ad97b7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp",
+            "isDirectory": false,
+            "size": 3754,
+            "modifiedTime": 1584913587444,
+            "changeTime": 1584913587444,
+            "contentHash": "7691e08ab496888f9b2df65d52fab289084094fc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587445,
+            "changeTime": 1584913587445,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.css",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetails.css",
+            "isDirectory": false,
+            "size": 7,
+            "modifiedTime": 1584913587445,
+            "changeTime": 1584913587445,
+            "contentHash": "004a54bc211979229938db5175399d378aaffb25",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetailsController.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_interviewDetails\\submitComponent_interviewDetailsController.js",
+            "isDirectory": false,
+            "size": 902,
+            "modifiedTime": 1584913587445,
+            "changeTime": 1584913587445,
+            "contentHash": "f7975ded0fb7fd0945c75492c8a346624691694b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587442,
+            "changeTime": 1584913587442,
+            "contentHash": "8429aaf7965cbdd04ffe34aa9c0084d1dc18432f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp",
+            "isDirectory": false,
+            "size": 1685,
+            "modifiedTime": 1584913587442,
+            "changeTime": 1584913587442,
+            "contentHash": "ce2c7cc96ed48a7e248a75140fd69c0a1b10dc6d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_Parent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587442,
+            "changeTime": 1584913587442,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_ParentController.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parent\\submitComponent_ParentController.js",
+            "isDirectory": false,
+            "size": 896,
+            "modifiedTime": 1584913587443,
+            "changeTime": 1584913587443,
+            "contentHash": "f6135eaad5dfdcf3b309a4f9f8160ea8fa33c38d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parentapp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parentapp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587443,
+            "changeTime": 1584913587443,
+            "contentHash": "2b70fdd3bd55857d6eda5ec6b5d33229e5a32e0e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app",
+            "isDirectory": false,
+            "size": 95,
+            "modifiedTime": 1584913587443,
+            "changeTime": 1584913587443,
+            "contentHash": "965a6bbad402473cea71e045987e1e664317217a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_Parentapp\\submitComponent_Parentapp.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587444,
+            "changeTime": 1584913587444,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_passPanelId",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_passPanelId",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587446,
+            "changeTime": 1584913587446,
+            "contentHash": "c386dfa7a488dad48b4fdd564ec6217a6eec05be",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_passPanelId\\submitComponent_passPanelId.evt",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_passPanelId\\submitComponent_passPanelId.evt",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1584913587446,
+            "changeTime": 1584913587446,
+            "contentHash": "d6e5b222aabb4ce1fcca8113419840acb6f60a40",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_passPanelId\\submitComponent_passPanelId.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_passPanelId\\submitComponent_passPanelId.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587446,
+            "changeTime": 1584913587446,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587447,
+            "changeTime": 1584913587447,
+            "contentHash": "8bbb8a8c92ace76d7ad65b64994d92a8d2809030",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt",
+            "isDirectory": false,
+            "size": 139,
+            "modifiedTime": 1584913587447,
+            "changeTime": 1584913587447,
+            "contentHash": "cf811b4dc6dc47fcc1677d6899198ec531fda11a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\submitComponent_submitPanelRecord\\submitComponent_submitPanelRecord.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587447,
+            "changeTime": 1584913587447,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587438,
+            "changeTime": 1584913587438,
+            "contentHash": "e515b684e79a255e6e76169b051f9b1a59e09e9c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt",
+            "isDirectory": false,
+            "size": 112,
+            "modifiedTime": 1584913587438,
+            "changeTime": 1584913587438,
+            "contentHash": "5ce4c0d678290093fb0acc7f6300646a1321e3c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\SubmitPanelCompPassCurrID\\SubmitPanelCompPassCurrID.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587438,
+            "changeTime": 1584913587438,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewApp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587439,
+            "changeTime": 1584913587439,
+            "contentHash": "5b472ea6499928510dfef54f6d737cac4c6d8444",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app",
+            "isDirectory": false,
+            "size": 89,
+            "modifiedTime": 1584913587439,
+            "changeTime": 1584913587439,
+            "contentHash": "e98c23a42b6173a9fbfdc3aca1b589bbacc84932",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewApp\\TechInterviewApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587439,
+            "changeTime": 1584913587439,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587441,
+            "changeTime": 1584913587441,
+            "contentHash": "6fef5e31b816d2f584f372bb027aaab77a7a3abe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp",
+            "isDirectory": false,
+            "size": 4187,
+            "modifiedTime": 1584913587440,
+            "changeTime": 1584913587440,
+            "contentHash": "e6760aaf1e251875ac0d138e263cbd6817105cfc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewComp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1584913587440,
+            "changeTime": 1584913587440,
+            "contentHash": "33af41bd33b1704a1a395e4f69cbf966ecd59445",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewCompController.js",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\aura\\TechInterviewComp\\TechInterviewCompController.js",
+            "isDirectory": false,
+            "size": 2838,
+            "modifiedTime": 1584913587441,
+            "changeTime": 1584913587441,
+            "contentHash": "974b11b824419a7f8a92295027180e804b81d086",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584943643355,
+            "changeTime": 1584943643355,
+            "contentHash": "1d84f4aca1414f23313820416e24f3f52cf101ac"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\DataFactory.cls",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\DataFactory.cls",
+            "isDirectory": false,
+            "size": 9741,
+            "modifiedTime": 1584923217857,
+            "changeTime": 1584923217857,
+            "contentHash": "0607618201d78d633fa88795de1c6eade2daf579",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\DataFactory.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\DataFactory.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584913587448,
+            "changeTime": 1584913587448,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelListViewAPEXController.cls",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelListViewAPEXController.cls",
+            "isDirectory": false,
+            "size": 657,
+            "modifiedTime": 1584913587449,
+            "changeTime": 1584913587449,
+            "contentHash": "c85cc3b9489d8cd10eba4c97d33a0cfef125b4c8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelListViewAPEXController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelListViewAPEXController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584913587449,
+            "changeTime": 1584913587449,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls",
+            "isDirectory": false,
+            "size": 304,
+            "modifiedTime": 1584913587449,
+            "changeTime": 1584913587449,
+            "contentHash": "db6a859cf5408b2f083f7a279142527d5f4675af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\PanelViewAPEXController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584913587450,
+            "changeTime": 1584913587450,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TechDetails.cls",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TechDetails.cls",
+            "isDirectory": false,
+            "size": 1788,
+            "modifiedTime": 1584913587450,
+            "changeTime": 1584913587450,
+            "contentHash": "20355a011dbe6172a231a2cbcd0f4ca7ca450832",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TechDetails.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TechDetails.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584913587450,
+            "changeTime": 1584913587450,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelListViewPAPEXController.cls",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelListViewPAPEXController.cls",
+            "isDirectory": false,
+            "size": 1149,
+            "modifiedTime": 1584913587451,
+            "changeTime": 1584913587451,
+            "contentHash": "92cf8e376623a77df61f3d8562d5c6e889dd69e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelListViewPAPEXController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelListViewPAPEXController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584913587451,
+            "changeTime": 1584913587451,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelViewAPEXController.cls",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelViewAPEXController.cls",
+            "isDirectory": false,
+            "size": 1471,
+            "modifiedTime": 1584913587451,
+            "changeTime": 1584913587451,
+            "contentHash": "f9a4da52a484ffcfa11ba21486fcd16b6f84b914",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelViewAPEXController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestPanelViewAPEXController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1584913587452,
+            "changeTime": 1584913587452,
+            "contentHash": "9ccb2360e3c7b4c10910adb7e3465391553e08bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576260,
+            "changeTime": 1584913576260,
+            "contentHash": "b9735dace3c8a4467cc337facef1ec99e08f6431",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset",
+            "isDirectory": false,
+            "size": 104348,
+            "modifiedTime": 1584913576259,
+            "changeTime": 1584913576259,
+            "contentHash": "9bb0e15c3c7fa5e81014d8a140d30841962567d0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\contentassets\\panel_logo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1584913576260,
+            "changeTime": 1584913576260,
+            "contentHash": "377cc417c477797dd3318e542783cfef06be9ff9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587452,
+            "changeTime": 1584913587452,
+            "contentHash": "f1374dd2d06fd7794f0f00f91247a97f7de41046",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1777,
+            "modifiedTime": 1584913587452,
+            "changeTime": 1584913587452,
+            "contentHash": "638ba1b050941246b89455f5076fa12d2d31a876",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\flexipages\\Panel_Force_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\flexipages\\Panel_Force_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1584913576261,
+            "changeTime": 1584913576261,
+            "contentHash": "e8bcd069b2b3f1c60802c082e9400f56802718d4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584943643334,
+            "changeTime": 1584943643334,
+            "contentHash": "8c89f5cdca1fd562396040942330e66a209157ef"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10465,
+            "modifiedTime": 1584913576262,
+            "changeTime": 1584913576262,
+            "contentHash": "2006995b8a8b6947e5f607994bbb982ad4660bb9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10440,
+            "modifiedTime": 1584913576263,
+            "changeTime": 1584913576263,
+            "contentHash": "0885fe7804caa9333c98616473ad605b271b76c2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10142,
+            "modifiedTime": 1584913576264,
+            "changeTime": 1584913576264,
+            "contentHash": "f4d7af5d33b52a29324f19ff6677564aeb9ecc44",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10440,
+            "modifiedTime": 1584913576265,
+            "changeTime": 1584913576265,
+            "contentHash": "efa72e5d6225de0909a7ab76eb71211b0fcbbd5a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-contact%28associate%29 layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-contact%28associate%29 layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3664,
+            "modifiedTime": 1584913576266,
+            "changeTime": 1584913576266,
+            "contentHash": "a6d6f28694b891fb6a2d48d16020fdaa504eae95",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Panel Force Associate.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-Panel Force Associate.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2402,
+            "modifiedTime": 1584913576265,
+            "changeTime": 1584913576265,
+            "contentHash": "45d39cd7d50b28a2167d1324c4e4c08f0844fc0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-panelforce associate.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Contact-panelforce associate.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2402,
+            "modifiedTime": 1584913576266,
+            "changeTime": 1584913576266,
+            "contentHash": "45d39cd7d50b28a2167d1324c4e4c08f0844fc0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Curriculum__c-Curriculum Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Curriculum__c-Curriculum Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2868,
+            "modifiedTime": 1584913587452,
+            "changeTime": 1584913587452,
+            "contentHash": "91c62896ef6bdbd58baa65915984640955565465",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Panel__c-Panel Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Panel__c-Panel Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5643,
+            "modifiedTime": 1584913587453,
+            "changeTime": 1584913587453,
+            "contentHash": "d9d82beaec2b8ed9637c1d36e5e359abce0317b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576295,
+            "changeTime": 1584913576295,
+            "contentHash": "8b3b2f48ad2eaac2bbc3723d3e7bfd3fdd91d422",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576278,
+            "changeTime": 1584913576278,
+            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576277,
+            "changeTime": 1584913576277,
+            "contentHash": "e23fc9090bfbd4e584f8e516e8c1126de725f09d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1202,
+            "modifiedTime": 1584913576276,
+            "changeTime": 1584913576276,
+            "contentHash": "b3f3cb41b6d73cfc2a0ccd5154f9c2cf025ccffc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Certified__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1584913576276,
+            "changeTime": 1584913576276,
+            "contentHash": "9f04c77c3325b4b117c7c7c3bffd6f72ad4603a9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Graduation_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1584913576277,
+            "changeTime": 1584913576277,
+            "contentHash": "b6baf25524fd5d5631ccf287639605782f5fdb70",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\fields\\Work_Experience__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1425,
+            "modifiedTime": 1584913576277,
+            "changeTime": 1584913576277,
+            "contentHash": "c26dbe3fe0eb7a6f103cb7392a13bdd357f7eb8b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576279,
+            "changeTime": 1584913576279,
+            "contentHash": "f5c19a39af592dabdca40d8b6d7181299009b5a6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\PanelForce_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2851,
+            "modifiedTime": 1584913576278,
+            "changeTime": 1584913576278,
+            "contentHash": "ca5d3b1b97807b96a91a21bab997ce95e279ed56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Contact\\recordTypes\\Panel_Force_Associate.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2852,
+            "modifiedTime": 1584913576279,
+            "changeTime": 1584913576279,
+            "contentHash": "b8eab6f485acac827724d2834a1522c70e971c76",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587454,
+            "changeTime": 1584913587454,
+            "contentHash": "4082bafd5e48f35a15fba90051a7e457837cb0df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\Curriculum__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5376,
+            "modifiedTime": 1584913576280,
+            "changeTime": 1584913576280,
+            "contentHash": "378c9f2b3082483067d704f17d3100261840578d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587454,
+            "changeTime": 1584913587454,
+            "contentHash": "425b7939b4b3115a933e2049e0ce92e78a61e9b6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Active__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 640,
+            "modifiedTime": 1584913587453,
+            "changeTime": 1584913587453,
+            "contentHash": "0e7b5ed822d97d0c46c8b32f3710867b3bf57cc1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Total_Weights__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\fields\\Total_Weights__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 611,
+            "modifiedTime": 1584913587454,
+            "changeTime": 1584913587454,
+            "contentHash": "18d69be8624304e20bd2da9d60453e037e60a447",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576281,
+            "changeTime": 1584913576281,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584913576281,
+            "changeTime": 1584913576281,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587454,
+            "changeTime": 1584913587454,
+            "contentHash": "79afa1e97a3e59ca31dcd4f1154bff1bed073ac9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules\\TotalWeight100.validationRule-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Curriculum__c\\validationRules\\TotalWeight100.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 520,
+            "modifiedTime": 1584913587454,
+            "changeTime": 1584913587454,
+            "contentHash": "16c3d1b7fe0eb6f41f1e4422fcfe9f9f23e2b8eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576285,
+            "changeTime": 1584913576285,
+            "contentHash": "8d6f2313e28e8d093d10576e4c22c7261e15b49f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587455,
+            "changeTime": 1584913587455,
+            "contentHash": "937d7aadae5b60455577703e68902ffada30034f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Comment__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Comment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1584913587455,
+            "changeTime": 1584913587455,
+            "contentHash": "af0a5249d25726711f50949374b116c9780fecdf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Grade__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1584913576283,
+            "changeTime": 1584913576283,
+            "contentHash": "5ff8d57740d046f2201c32d6341a79b5f979223a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Panel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 656,
+            "modifiedTime": 1584913576284,
+            "changeTime": 1584913576284,
+            "contentHash": "a869bb846cf497955e1de6517a1a1212ca014217",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Repanel__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Repanel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1584913587455,
+            "changeTime": 1584913587455,
+            "contentHash": "e30b0d2e6160f80407b83d17e4daac5301ed15a8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technology__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\fields\\Technology__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 671,
+            "modifiedTime": 1584913576284,
+            "changeTime": 1584913576284,
+            "contentHash": "d1c9f842acc8da28c35013a8f6a445064c9a1622",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576285,
+            "changeTime": 1584913576285,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584913576285,
+            "changeTime": 1584913576285,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel_Results__c\\Panel_Results__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5459,
+            "modifiedTime": 1584913576282,
+            "changeTime": 1584913576282,
+            "contentHash": "a0a72862fef5cc4497a71dfea5aaefdf18f95673",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576294,
+            "changeTime": 1584913576294,
+            "contentHash": "c24181d81f9cb61babadedce9ba2ae2f882ac2cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587457,
+            "changeTime": 1584913587457,
+            "contentHash": "4e57e562963fc749b93cfedeb95109cbebfd63ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Associate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1584913576287,
+            "changeTime": 1584913576287,
+            "contentHash": "70f2dbe62ea0a875bb945f05f57f543d09e2c680",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Consent_to_recording__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1584913576288,
+            "changeTime": 1584913576288,
+            "contentHash": "61c748babbfa624f0ad67968ba02a9041f84eb62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 848,
+            "modifiedTime": 1584913587456,
+            "changeTime": 1584913587456,
+            "contentHash": "0fee4ec8753292261f548bf71c241ea08663bf3e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Internet_Connection_Quality__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1270,
+            "modifiedTime": 1584913576289,
+            "changeTime": 1584913576289,
+            "contentHash": "fb68ad948969ae9aa8e7a3ce9406f144afc2e99c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 371,
+            "modifiedTime": 1584913576289,
+            "changeTime": 1584913576289,
+            "contentHash": "6e4299bc24e254fb8354973fc5f5850bf68fa426",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Duration_in_minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 484,
+            "modifiedTime": 1584913576290,
+            "changeTime": 1584913576290,
+            "contentHash": "4f2a21bb42aec799a459ad53b440816af1527de9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_mode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1399,
+            "modifiedTime": 1584913576291,
+            "changeTime": 1584913576291,
+            "contentHash": "f114194cb5f831ef6c18041b899070b2fa36ed9d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Ready__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Ready__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1584913587456,
+            "changeTime": 1584913587456,
+            "contentHash": "e90180db80bae39a4ab4baa17d6625e3f4f137c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Interview_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 371,
+            "modifiedTime": 1584913576290,
+            "changeTime": 1584913576290,
+            "contentHash": "f033e4f71c5cf79de9424137ec54cb0ebb1940ec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Overall_Feedback__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 379,
+            "modifiedTime": 1584913576292,
+            "changeTime": 1584913576292,
+            "contentHash": "ce6e4a7c776e0f8c5daf6bcd8bc8c35a1653a76f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panelist__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 497,
+            "modifiedTime": 1584913576293,
+            "changeTime": 1584913576293,
+            "contentHash": "51172232bd729c82c1bd3cbd952b16e6091ab9b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Panel_Round__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1584913576292,
+            "changeTime": 1584913576292,
+            "contentHash": "10262da01f1a8d3da17097ce5537aebd297ef8ce",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Company__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Company__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 518,
+            "modifiedTime": 1584913587456,
+            "changeTime": 1584913587456,
+            "contentHash": "36728066fae6ec4500617e7161e74de2b1efaee4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1584913587457,
+            "changeTime": 1584913587457,
+            "contentHash": "9d1462d12424279d5d03b42d05c98392fb324bf0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Job_ID__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Placement_Job_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1584913587457,
+            "changeTime": 1584913587457,
+            "contentHash": "c7708d4e8d4a32ef24e7e40017445d1410af6993",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Recording_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1584913576293,
+            "changeTime": 1584913576293,
+            "contentHash": "0a60807eee6b425162b8f51d2aa86f20a7b13efb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\fields\\Training_track__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1584913576294,
+            "changeTime": 1584913576294,
+            "contentHash": "d3e5a7cff3da183380c420344de5230b39420728",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576295,
+            "changeTime": 1584913576295,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584913576295,
+            "changeTime": 1584913576295,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Panel__c\\Panel__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5361,
+            "modifiedTime": 1584913576286,
+            "changeTime": 1584913576286,
+            "contentHash": "fe4fc7c80d55de3462ff1e5bf2136e1f2dbdd7c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587458,
+            "changeTime": 1584913587458,
+            "contentHash": "e8f767d949db9cd0a1f44f60a0fe7463d6fb22b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576297,
+            "changeTime": 1584913576297,
+            "contentHash": "fdef53cfc5b02bcbcba35f2c1c0934cd4cde3735",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Curriculum__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Curriculum__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 612,
+            "modifiedTime": 1584913576297,
+            "changeTime": 1584913576297,
+            "contentHash": "04ea1b2d5fdbe474894aa6cbe00fd3b96f8077d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\fields\\Weight_in_Panel_Results__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1584913576298,
+            "changeTime": 1584913576298,
+            "contentHash": "16db2b141f1304d167c96116f735b27e485f7f78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576299,
+            "changeTime": 1584913576299,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1584913576299,
+            "changeTime": 1584913576299,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\Technology__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objects\\Technology__c\\Technology__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5396,
+            "modifiedTime": 1584913587458,
+            "changeTime": 1584913587458,
+            "contentHash": "026fc53b438c13096d41eae4753d7bc47508f524",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576272,
+            "changeTime": 1584913576272,
+            "contentHash": "252ac0f9d12adba59369338d3f325d85e3d919eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576272,
+            "changeTime": 1584913576272,
+            "contentHash": "32b71f68a91c51c8d74496b8bc4d9c8985c4c74f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Batch__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 797,
+            "modifiedTime": 1584913576269,
+            "changeTime": 1584913576269,
+            "contentHash": "77dc8cfa67df669693144125b2484bbef6511176",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Certified__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1584913576270,
+            "changeTime": 1584913576270,
+            "contentHash": "f0e2c5d9d5f22fdc823ddf7e913e3a6e08b005f8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Contact-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 1152,
+            "modifiedTime": 1584913576271,
+            "changeTime": 1584913576271,
+            "contentHash": "50b4546f0e36b15d5c758169c6ea71fdb5ac4d40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Graduation_Date__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1584913576271,
+            "changeTime": 1584913576271,
+            "contentHash": "1c3febf8c374351b932ad50261d17b043006fc2d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Contact-en_US\\Work_Experience__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 991,
+            "modifiedTime": 1584913576272,
+            "changeTime": 1584913576272,
+            "contentHash": "5939c76d228f3cc94ef5a5165624c4cb8a84dfa3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576274,
+            "changeTime": 1584913576274,
+            "contentHash": "f888aacc1906e3af0d1b47ccbe33366fb1a141a2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Curriculum__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Curriculum__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 279,
+            "modifiedTime": 1584913576273,
+            "changeTime": 1584913576273,
+            "contentHash": "5c30f0233aa0e622ee264037cadb85b2377c3c17",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Technology__c-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Technology__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1584913576274,
+            "changeTime": 1584913576274,
+            "contentHash": "00cb31293d4fa61fc82fcedfacdac0aa40f51879",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\objectTranslations\\Technology__c-en_US\\Weight_in_Panel_Results__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1584913576274,
+            "changeTime": 1584913576274,
+            "contentHash": "68a0782c30b417b970f6f7fb095b56ef48e2391d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576300,
+            "changeTime": 1584913576300,
+            "contentHash": "5554b5e94c58f3677d23b9bbfd340e571436c255",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\permissionsets\\panel_force.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 4874,
+            "modifiedTime": 1584913576300,
+            "changeTime": 1584913576300,
+            "contentHash": "92381655ea19ead362369aa7cdcb2b2bf97e590c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584923697541,
+            "changeTime": 1584923697541,
+            "contentHash": "3952ebf80856a5842daf66aeaea2c8f281fdb03a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1584662884030.profilePasswordPolicy-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1584662884030.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "size": 646,
+            "modifiedTime": 1584913587458,
+            "changeTime": 1584913587458,
+            "contentHash": "afc0692f9171a7c0e71424ea46f05f82e9bba078",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584943643430,
+            "changeTime": 1584943643430,
+            "contentHash": "936f63e1d5a4d4ee2c8ae60a25411c1ea560fa1b"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 28256,
+            "modifiedTime": 1584943643480,
+            "changeTime": 1584943643480,
+            "contentHash": "b2d25c9bbf3c514212e3566f5f9c451c7205327e"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Quality Control User.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Quality Control User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 14262,
+            "modifiedTime": 1584943643413,
+            "changeTime": 1584943643413,
+            "contentHash": "4ae9714d6722d6d3cc9af7e7b2507c7ceb510a20"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profileSessionSettings",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profileSessionSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584923697556,
+            "changeTime": 1584923697556,
+            "contentHash": "20cca488139e139c688786e1137317ffba3fc51c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1584662884177.profileSessionSetting-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1584662884177.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1584913587459,
+            "changeTime": 1584913587459,
+            "contentHash": "bfae9bf369aeb9527febecee002e1a6a81f4e7d3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\reportTypes",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\reportTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576301,
+            "changeTime": 1584913576301,
+            "contentHash": "ef52a1fe946842084049bc01cdb603d78f050522",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\reportTypes\\Curriculums_with_Technologies_with_Panel_Results.reportType-meta.xml",
+            "isDirectory": false,
+            "size": 5706,
+            "modifiedTime": 1584913576301,
+            "changeTime": 1584913576301,
+            "contentHash": "9e31683c70a547057cfd886231b8c32aa453a676",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\roles",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\roles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913576302,
+            "changeTime": 1584913576302,
+            "contentHash": "865ed642fe5bdf81de8e837d57222690324daffe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\roles\\Quality_Control.role-meta.xml",
+            "isDirectory": false,
+            "size": 438,
+            "modifiedTime": 1584913576302,
+            "changeTime": 1584913576302,
+            "contentHash": "784ec4f9ad1c800a713864250831058e42192cc0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584923217858,
+            "changeTime": 1584913587463,
+            "contentHash": "3ae6bc615af4480a5e051dbce5cb0f9cf5315eda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\associates.csv",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\associates.csv",
+            "isDirectory": false,
+            "size": 853,
+            "modifiedTime": 1584913587460,
+            "changeTime": 1584913587460,
+            "contentHash": "7fed0ff21374783f78202ee50b165b52bdf3fec9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\associates.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\associates.resource-meta.xml",
+            "isDirectory": false,
+            "size": 291,
+            "modifiedTime": 1584913587461,
+            "changeTime": 1584913587461,
+            "contentHash": "8ac4e6670076d0cc4b32ab1c84b1f3376741a2a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\curricula.csv",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\curricula.csv",
+            "isDirectory": false,
+            "size": 142,
+            "modifiedTime": 1584923217857,
+            "changeTime": 1584923217857,
+            "contentHash": "2d3a68de68dc8fdf75400527fb6943770037eb72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\curricula.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\curricula.resource-meta.xml",
+            "isDirectory": false,
+            "size": 290,
+            "modifiedTime": 1584913587461,
+            "changeTime": 1584913587461,
+            "contentHash": "f489575248e39aa71a0cf167ca9a3b93a6e6dd40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panelresults.csv",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panelresults.csv",
+            "isDirectory": false,
+            "size": 4076,
+            "modifiedTime": 1584913587462,
+            "changeTime": 1584913587462,
+            "contentHash": "0818d7db0fd82bd3f23392d0a032f8eb407b0509",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panelresults.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panelresults.resource-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1584913587462,
+            "changeTime": 1584913587462,
+            "contentHash": "5edc6a0bbb60a865603b3c26e665119a7f2e61f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panels.csv",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panels.csv",
+            "isDirectory": false,
+            "size": 2135,
+            "modifiedTime": 1584913587462,
+            "changeTime": 1584913587462,
+            "contentHash": "1d38db4ca0172c0bcc996d196286535a20e720b6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panels.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panels.resource-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1584913587463,
+            "changeTime": 1584913587463,
+            "contentHash": "5edc6a0bbb60a865603b3c26e665119a7f2e61f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.jpeg",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1584913576302,
+            "changeTime": 1584913576302,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\panel_logo.resource-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1584913576303,
+            "changeTime": 1584913576303,
+            "contentHash": "c15fc6c7d56168514cb82eff7b8fc9d6130b22b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\technologies.csv",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\technologies.csv",
+            "isDirectory": false,
+            "size": 1631,
+            "modifiedTime": 1584923217858,
+            "changeTime": 1584923217858,
+            "contentHash": "7d9d8ebe2bbd6e729e571d2523b414de71a0ae36",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\technologies.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\staticresources\\technologies.resource-meta.xml",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1584913587463,
+            "changeTime": 1584913587463,
+            "contentHash": "a7416d0cf8ddd512c69c49e4380bdf0cc8fdbb5e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1584943643338,
+            "changeTime": 1584943643338,
+            "contentHash": "b8920da75cc55cdd693f0e9d6995047ccef2a584"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Curriculum__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1584913576304,
+            "changeTime": 1584913576304,
+            "contentHash": "ecf1f1d7c8a9a105e16a021d305ed4455dcd5abc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Panel_Results__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1584913576304,
+            "changeTime": 1584913576304,
+            "contentHash": "524534febffe3b7ca2afa80437c5430ff1a93eed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Panel__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1584913576305,
+            "changeTime": 1584913576305,
+            "contentHash": "5a5bc34f4fc3e1cf717ee9d64d64283623c05a1b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Submit_a_Panel.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Submit_a_Panel.tab-meta.xml",
+            "isDirectory": false,
+            "size": 250,
+            "modifiedTime": 1584913587464,
+            "changeTime": 1584913587464,
+            "contentHash": "236f9df78bf24b4d3c21e33a406f241322b1360c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Technology__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\Technology__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1584913576306,
+            "changeTime": 1584913576306,
+            "contentHash": "8fd7cc0b195f639df5f003b30a5e895dd8fdef3e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1584913587430,
+            "changeTime": 1584913587430,
+            "contentHash": "cf7c3d554a83cdf5a4b2e318ae2233f6fb0b8f7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies\\Quality_Control_User_profilePasswordPolicy1584914324287.profilePasswordPolicy-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profilePasswordPolicies\\Quality_Control_User_profilePasswordPolicy1584914324287.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "size": 647,
+            "modifiedTime": 1584923697541,
+            "changeTime": 1584923697541,
+            "contentHash": "3341ad7f96b364bc749e5521820d6af1dcfc7008",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profileSessionSettings\\Quality_Control_User_profileSessionSetting1584914324378.profileSessionSetting-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profileSessionSettings\\Quality_Control_User_profileSessionSetting1584914324378.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1584923697556,
+            "changeTime": 1584923697556,
+            "contentHash": "3a2c6afb9b59f5e1e9b0c1cf17cc4f7de3615bb2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Technology__c-Technology Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\layouts\\Technology__c-Technology Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3071,
+            "modifiedTime": 1584943643334,
+            "changeTime": 1584943643334,
+            "contentHash": "5864a0a6877152d306c6bfea2d659d85eafcb950"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\View_Panels.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\tabs\\View_Panels.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1584943643338,
+            "changeTime": 1584943643338,
+            "contentHash": "99cac8b1d6c4d95e57d8a615c090f15702e548a4"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestTechDetails.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestTechDetails.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1584943643351,
+            "changeTime": 1584943643351,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestTechDetails.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\classes\\TestTechDetails.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2896,
+            "modifiedTime": 1584943643355,
+            "changeTime": 1584943643355,
+            "contentHash": "312cce3918f01178c2f6da5053892f8ad3427763"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12218,
+            "modifiedTime": 1584943643366,
+            "changeTime": 1584943643366,
+            "contentHash": "0cd3060bfa68bbcc530a44448cd4e510c6872632"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11886,
+            "modifiedTime": 1584943643381,
+            "changeTime": 1584943643381,
+            "contentHash": "b5e47d536f4efab828070469c050baab909b18e5"
+        }
+    ],
+    [
+        "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\edkra\\Documents\\GitHub\\Panelforce\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11874,
+            "modifiedTime": 1584943643430,
+            "changeTime": 1584943643430,
+            "contentHash": "0cfc628bf6cb0da8eb2c06501e30b5a80115f1d3"
+        }
+    ]
+]

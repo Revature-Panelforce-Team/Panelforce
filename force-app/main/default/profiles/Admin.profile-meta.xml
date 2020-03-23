@@ -5,6 +5,15 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <applicationVisibilities>
+        <application>standard__Service</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <classAccesses>
+        <apexClass>DataFactory</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <classAccesses>
         <apexClass>PanelListViewAPEXController</apexClass>
         <enabled>true</enabled>
@@ -14,11 +23,19 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>TechDetails</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestPanelListViewPAPEXController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>TestPanelViewAPEXController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>TestTechDetails</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
@@ -53,9 +70,19 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Panel_Results__c.Comment__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Panel_Results__c.Grade__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Panel_Results__c.Repanel__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -86,6 +113,11 @@
         <editable>true</editable>
         <field>Panel__c.Interview_Duration_in_minutes__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Panel__c.Interview_Ready__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -157,9 +189,6 @@
         <layout>Curriculum__c-Curriculum Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Panel_Results__c-Panel Result Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Panel__c-Panel Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -219,7 +248,15 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Submit_a_Panel</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Technology__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>View_Panels</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
