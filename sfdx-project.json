@@ -2,17 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
-            "package": "DataModel",
+            "package": "PanelForce",
             "versionName": "ver 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "versionNumber": "1.0.0.NEXT",
+            "default": true
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "48.0",
     "packageAliases": {
-        "DataModel": "0Ho3h000000CaRWCA0",
-        "DataModel@1.0.0-1": "04t3h000000CiMlAAK"
+        "PanelForce": "0Ho6g0000004CviCAE"
+        "PanelForce@1.0.0-1" : "04t6g000008f4OPAAY"
     }
 }
