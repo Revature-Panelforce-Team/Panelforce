@@ -12,7 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "48.0",
     "packageAliases": {
-        "PanelForce": "0Ho6g0000004CviCAE"
+        "PanelForce": "0Ho6g0000004CviCAE",
         "PanelForce@1.0.0-1" : "04t6g000008f4OPAAY"
     }
 }
